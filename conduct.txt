@@ -1,5 +1,7 @@
 BERKELEY CAMPUS CODE OF STUDENT CONDUCT
+
 General Overview
+
 The University of California at Berkeley is a community of scholars committed to maintaining an
 environment that encourages personal and intellectual growth. It is a community with high standards and
 high expectations for those who choose to become a part of it, including established rules of conduct
@@ -8,6 +10,7 @@ University community are expected to comply with all laws, University policies a
 conducting themselves in ways that support a scholarly environment. In this context, faculty are guided by
 The Faculty Code of Conduct, Section 015 of the Academic Personnel Manual, and students by the
 Berkeley Campus Code of Student Conduct, articulated here.
+
 Accompanying the Berkeley Campus Code of Student Conduct (Code) is an established process to
 determine if a student has violated the Code and to respond appropriately when violations are sustained.
 Students alleged to have violated the Code are given an opportunity to meet with a member of the Student
@@ -22,6 +25,7 @@ case informally. If the student chooses not to accept informal resolution or Stu
 Community Standards determines it necessary, the case will be handled formally by either an
 administrative hearing office or panel comprised of members of the Committee on Student Conduct
 (hearing body).
+
 Once the formal process begins, students can expect to be notified of the date and time for a hearing. In a
 panel hearing the panel will be composed of faculty, staff, and students. In an administrative hearing a staff
 member in Student Conduct and Community Standards will serve as the hearing officer. The process for
@@ -31,10 +35,12 @@ present witnesses and information on their behalf and ask questions of the campu
 body will determine whether it is more likely than not that students violated the Code, and if so, will
 recommend an appropriate sanction to the Dean of Students. If a sanction is imposed, students have the
 right to appeal their case to the Vice Chancellor of Student Affairs.
+
 Because this is an educational process, students are expected to speak for themselves. They may, however,
 seek the advice of another person to assist them in either the formal or informal process. In the event that
 the student chooses not to participate in the hearing process, the hearing process will continue in his or her
 absence.
+
 Sanctions in both the formal and informal processes are intended to have the effect of educating students
 about appropriate behavior within the community, helping them learn from mistakes, and discouraging
 violations of the rules of conduct. Sanctions often include such elements as reflective writing assignments,
@@ -42,821 +48,1063 @@ community service, letters of apology, counseling or additional coursework to en
 from their prior behavior and educate others about the standards of the campus community.
 
 I. STUDENT RIGHTS
-Students charged with violations of the Berkeley Campus Code of Student Conduct (Code) are advised of
-their due process rights when they meet with Student Conduct and Community Standards staff, and
-throughout the process, they are entitled to the following procedural protections:
-A. Notice of the Charges
-If Student Conduct and Community Standards determines that a student will be charged with violations
-of the Code, a notice is emailed to the student within 30 days after a complaint is filed or initiated by
-Student Conduct and Community Standards. The Notice of Charges identifies those sections of the
-Code the student is charged with violating and includes a brief explanation of the facts supporting the
-charge(s). See Notice of Charges, page 7 and the Overview of the Conduct Process in Appendix III.
-The University may bring charges against a former student, for offenses committed while a student,
-within six months after termination of student or student organization status. This limitation does not
-apply to cases that involve academic dishonesty or fraud affecting the acquisition of a degree, over
-which the University maintains indefinite jurisdiction.
-B. Presumption of Innocence
-It is presumed that a student charged with a violation of the Code is not responsible for such violations
-unless the student admits responsibility or a hearing determines otherwise. (See Standard of Proof,
-page 11)
-C. Choosing not to Participate
-The conduct process works best when students and staff collaboratively come to an informal resolution
-of cases. Students may choose not to participate in the resolution of their case. In this situation the
-hearing body may elect to proceed in the student’s absence. When a hearing is held in a student’s
-absence the decisions of the hearing body and the Dean of Students or his/her designee will have the
-same force and effect as if the student had been present. Students may also choose to remain silent
-during any portion of the conduct process and no inference will be drawn from their silence.
-D. Hearing
-Students charged with violations of the Code are encouraged to fully explore informal resolution of
-their case. They may, however, elect to have formal resolution of the case through an administrative or
-panel hearing. (See The Hearing, page 10)
-E. Appeal
-Students have a right to appeal the decisions of the hearing body and the Dean of Students or his/her
-designee. See Appeal of the Hearing Body and Dean of Students’ Decisions (page 13) for a description
-of the appeals process.
-F. Advisors
-Students must speak on their own behalf but may be accompanied by one advisor at any stage of the
-process, at his or her own expense. An advisor’s role in the student conduct process is to provide
-students with assistance in preparing for and conducting meetings and hearings. In meetings prior to
-the commencement of a formal hearing process, students are encouraged to fully participate but may
-be assisted by an advisor who, with the written permission of the student, may interact directly with
-Student Conduct and Community Standards staff and may meet on behalf of the student to seek an
-informal resolution. In a formal hearing, the student may consult with his or her advisor throughout
-the proceedings; however, advisors may not participate directly in the hearing process. Exceptions will
-only be made by the hearing panel or hearing officer in unusual circumstances (i.e. need for translator)
+
+  Students charged with violations of the Berkeley Campus Code of Student Conduct (Code) are advised of
+  their due process rights when they meet with Student Conduct and Community Standards staff, and
+  throughout the process, they are entitled to the following procedural protections:
+
+  A. Notice of the Charges
+
+    If Student Conduct and Community Standards determines that a student will be charged with violations
+    of the Code, a notice is emailed to the student within 30 days after a complaint is filed or initiated by
+    Student Conduct and Community Standards. The Notice of Charges identifies those sections of the
+    Code the student is charged with violating and includes a brief explanation of the facts supporting the
+    charge(s). See Notice of Charges, page 7 and the Overview of the Conduct Process in Appendix III.
+    The University may bring charges against a former student, for offenses committed while a student,
+    within six months after termination of student or student organization status. This limitation does not
+    apply to cases that involve academic dishonesty or fraud affecting the acquisition of a degree, over
+    which the University maintains indefinite jurisdiction.
+
+  B. Presumption of Innocence
+
+    It is presumed that a student charged with a violation of the Code is not responsible for such violations
+    unless the student admits responsibility or a hearing determines otherwise. (See Standard of Proof,
+    page 11)
+
+  C. Choosing not to Participate
+
+    The conduct process works best when students and staff collaboratively come to an informal resolution
+    of cases. Students may choose not to participate in the resolution of their case. In this situation the
+    hearing body may elect to proceed in the student’s absence. When a hearing is held in a student’s
+    absence the decisions of the hearing body and the Dean of Students or his/her designee will have the
+    same force and effect as if the student had been present. Students may also choose to remain silent
+    during any portion of the conduct process and no inference will be drawn from their silence.
+
+  D. Hearing
+
+    Students charged with violations of the Code are encouraged to fully explore informal resolution of
+    their case. They may, however, elect to have formal resolution of the case through an administrative or
+    panel hearing. (See The Hearing, page 10)
+
+  E. Appeal
+
+    Students have a right to appeal the decisions of the hearing body and the Dean of Students or his/her
+    designee. See Appeal of the Hearing Body and Dean of Students’ Decisions (page 13) for a description
+    of the appeals process.
+
+  F. Advisors
+
+    Students must speak on their own behalf but may be accompanied by one advisor at any stage of the
+    process, at his or her own expense. An advisor’s role in the student conduct process is to provide
+    students with assistance in preparing for and conducting meetings and hearings. In meetings prior to
+    the commencement of a formal hearing process, students are encouraged to fully participate but may
+    be assisted by an advisor who, with the written permission of the student, may interact directly with
+    Student Conduct and Community Standards staff and may meet on behalf of the student to seek an
+    informal resolution. In a formal hearing, the student may consult with his or her advisor throughout
+    the proceedings; however, advisors may not participate directly in the hearing process. Exceptions will
+    only be made by the hearing panel or hearing officer in unusual circumstances (i.e. need for translator)
 
 II. CONDUCT PROCEDURES
-The Center for Student Conduct and Community Standards is responsible for administering the Code on
-behalf of the campus. Student Conduct and Community Standards handles complaints of both academic
-and non-academic violations of the Code. Faculty members may resolve academic violations separately or
-in conjunction with Student Conduct and Community Standards. (See Faculty Informal Resolution of
-Academic Violations, page 8) Each case is handled individually and, while due process is always provided,
-every procedure outlined in the Code may not be employed in a particular case. The timelines set forth in
-this document may be extended in unusual circumstances as determined by the Dean of Students or his/her
-designee. Requests for extensions and approvals must be made in writing and all parties will be notified of
-the extension granted.
-A. Filing a Complaint and Investigation of Allegations
-1. Filing a Complaint
-Most cases begin with a complaint alleging that a student has committed an academic or non-academic
-violation of the Code. Any member of the faculty or staff, a student or any other person may file a
-complaint with Student Conduct and Community Standards. Complaints alleging violation of certain
-campus policies, such as the Sexual Harassment Policy (see Appendix I), must be filed within time
-limits prescribed in those policies. Student Conduct and Community Standards may also
-independently investigate information concerning student misconduct from any source, such as police
-and/or press reports, even where no formal complaint has been filed.
-2. Sexual Harassment Complaints
-In cases involving sexual harassment and/or gender discrimination, the investigation of specific
-allegations will be conducted by the Title IX Compliance Officer or other officer designated by the
-Chancellor in accordance with the Berkeley Campus Policy on Sexual Harassment and Complaint
-Resolution Procedures or the Student Grievance Procedure (see Appendix I). In cases involving a
-complaint of rape or sexual assault, the investigation of specific allegations will be directed by the
-Title IX Compliance Officer and conducted by Student Conduct and Community Standards. The
-Title IX Compliance Officer will decide whether sexual assault and sexual harassment cases
-should be pursued by Student Conduct and Community Standards.
-3. Complaints Relating to University Housing
-Students residing in University-owned and/or operated housing facilities who violate the
-Residential Code of Conduct (See Appendix I) may be adjudicated under the process outlined in
-the Residential Code of Conduct or referred directly to Student Conduct and Community
-Standards.
-B. Investigation of Misconduct
-Student Conduct and Community Standards will conduct an investigation of complaints of alleged
-misconduct and determine whether sufficient information exists to proceed with a conduct process.
-One of the following actions will then be taken:
-1. Not Pursued
-a) Insufficient Evidence
-If Student Conduct and Community Standards determines that there is insufficient evidence to
-support an allegation of violation of the Code, charges against the accused student will not be
-pursued.
-b) Notification
-Instead of pursuing charges against a student that has allegedly violated the Code, Student
-Conduct and Community Standards may issue a written notification to a student that his or her
-alleged behavior may have violated University policy, campus regulations or the Code and
-that, if repeated such behavior will be subject to the conduct process. The Notification does
-not result in a conduct record and therefore is not appealable. However, in order to enhance
-the sanction, the prior alleged behavior as detailed in the Notification may be introduced in a
-subsequent conduct process for the purpose of establishing that the student has been warned
-about such behavior.
-2. Case Charged
-a) Notice of Charges
-If Student Conduct and Community Standards determines that there is sufficient information
-that supports the allegation the student will be notified of the charges under the Code. The
-written notice of charges advises the student of: the University Policy or campus regulation
-the student is alleged to have violated; a brief summary of the incident including, wherever
-possible, the date, time, and location of the alleged offense; a statement that the student may
-be accompanied by an advisor at any stage of the conduct proceedings at his or her own
-expense; the opportunity to meet with a staff member of Student Conduct and Community
-Standards to discuss resolution of the charges pursuant to Informal Resolution of Allegations
-(page 8) of this Code; the right to a hearing to contest the allegations; and Student Conduct
-and Community Standards’ intent to proceed to hearing unless the student meets with staff
-and informally resolves the charges. See the Overview of the Conduct Process in Appendix
-III.
-Notice to student organizations will be addressed to the president, principal officer, student
-group signatory or other students designated by the group to act as an agent on behalf of the
-group.
-b) Advisory Review Committee
-Student Conduct and Community Standards may seek the advice of an Advisory Review
-Committee with respect to pursuing or charging a case or with sanctioning pursuant to an
-informal resolution. Hearing bodies may also seek the advice of an Advisory Review
-Committee for the purpose of determining an appropriate sanction. This committee will also
-conduct any hearings required in connection with an Interim Suspension (See Interim
-Suspension, page 19). Advisory Review Committees will be formed on an as-needed basis
-from the members of the Committee on Student Conduct and will include three members: a
-faculty chair, one student and one staff member. Advisory review committee members
-responsible for making decisions related to pursuing or charging a case will not be seated on
-the hearing panel for that case.
-C. Resolution of Charged Cases
-Students may choose to resolve their cases either informally through meetings with Student Conduct
-and Community Standards staff or formally through a hearing process. In either case, a student may
-request a copy of his or her own conduct record from Student Conduct and Community Standards.
-Student Conduct and Community Standards must provide a copy within three days of such requests.
-The release of such information may be subject to limitations imposed by state and federal law. (See
-Berkeley Campus Policy Governing Disclosure of Information from Student Records in Appendix I for
-further information.)
-1. Informal Resolution of Allegations
-a) Student Conduct Informal Resolution
-Students charged with Code violations are offered the opportunity to meet with Student
-Conduct and Community Standards to resolve their case without a formal hearing. Cases may
-be resolved informally if the charged student, at any time prior to the hearing, admits violating
-the Code as charged or otherwise accepts an informal resolution. Informal resolutions
-generally include sanctions as described in Conduct Sanctions (page 19) combined with
-enhancements such as community service, additional educational requirements, written
-assignments, etc. If the Student Conduct Officer and the student reach a mutually acceptable
-agreement regarding sanctions, no hearing will be held. A student agreeing to an informal
-resolution must understand that by accepting the informal resolution he or she is waiving his
-or her rights to a hearing and any further appeal. If no agreement is reached, the matter will
-proceed to a hearing. (See also Faculty Resolution of Academic Violations, page 8)
-b) Additional Informal Resolution Options
-In some cases additional options for informal resolution may be appropriate. These options
-could include, but are not limited to: mediation, peer review boards, and restorative processes.
-Student Conduct and Community Standards staff will determine when these options for
-resolution may be appropriate and make referrals.
-c) Faculty Resolution of Academic Violations
-(1) Generally
-Faculty members may choose to informally resolve incidents of academic misconduct or
-may refer such complaints to Student Conduct and Community Standards. All faculty
-dispositions will be reported to Student Conduct and Community Standards, either for
-adjudication (as described in Resolution of Charged Cases, page 7) or for record-keeping
-purposes. If the student has a prior history of misconduct at the University, Student
-Conduct and Community Standards may adjudicate the matter after consultation with the
-instructor or faculty member.
-(2) Initial Investigation
-Instructors or faculty members attempting to settle academic matters will discuss
-allegations of academic misconduct with the student directly and, if appropriate, others
-involved in the suspected academic violation. If the student maintains innocence of the
-violation and the instructor or faculty member determines that no such violation occurred,
-he or she may cease investigating the complaint.
-(3) Faculty Determined Disposition
-If, upon discussion, the student admits the violation, the instructor may impose an
-appropriate academic sanction after confirming with Student Conduct and Community
-Standards that the student has no prior history of academic misconduct. If the student
-does not admit to the academic misconduct or consent to the sanction proposed by the
-faculty member, the matter will be adjudicated through Student Conduct and Community
-Standards. Academic sanctions may only be imposed by faculty members and include
-but are not limited to resubmitting assignments and grade adjustments. Faculty members
-may not impose sanctions as listed in Conduct Sanctions (page 19). All faculty
-dispositions will be reported to Student Conduct and Community Standards for recordkeeping purposes.
-(4) Referral to Student Conduct and Community Standards
-If the instructor or faculty member is unable to, or elects not to resolve the complaint
-with the student, he or she will report the alleged violation to Student Conduct and
-Community Standards.
-If the student, in discussion with the instructor or faculty member, maintains innocence of
-the alleged violation and the instructor or faculty member believes a violation did occur,
-he or she will report the alleged violation to Student Conduct and Community Standards.
-If a student is found responsible for academic violations of the Code academic sanctions
-may be imposed by the faculty member (see Faculty Determined Disposition, page 8) and
-non-academic sanctions imposed by Student Conduct and Community Standards or the
-hearing body . (See Conduct Sanctions, page 19)
-When an instructor or faculty member reports an alleged academic violation to Student
-Conduct and Community Standards, a course grade of "I" (Incomplete) will be noted on
-the grade sheet pending resolution of the allegation. When the alleged violation is
-reported to Student Conduct and Community Standards, it will be handled as outlined in
-section Resolution of Charged Cases (page 7).
-(5) Notice of Final Disposition
-The instructor or faculty member will, in all cases, be informed of the disposition of the
-allegations by Student Conduct and Community Standards to the extent permitted by
-applicable law and University policy.
-2. Formal Hearing Processes
-Cases will be resolved through a formal hearing process unless resolved informally (See Student
-Conduct Informal Resolution, page 8) through either Student Conduct and Community Standards
-or a faculty disposition (see Faculty Resolution of Academic Violations, page 8) Both the student
-and Student Conduct and Community Standards will have an opportunity to present witnesses for
-questioning (see Presentation of Information, page 10). The student may request a copy of his or
-her disciplinary file at any time in order to prepare for a hearing. Student Conduct and Community
-Standards must provide copies within three days of such requests. The release of information
-pursuant to this section may be subject to limitations imposed by state and federal lay. (See
-Berkeley Campus Policy Governing Disclosure of Information from Student Records in Appendix
-I). A student may choose a hearing panel or administrative hearing as outlined below:
-a) Administrative Hearing
-A student may choose to have his or her case resolved through an administrative hearing.
-These cases will be heard by a single hearing officer who is a staff member in Student
-Conduct and Community Standards. When a student chooses not to participate in the
-resolution of allegations of violation of this Code, and the outcome will not likely result in
-suspension or dismissal, Student Conduct and Community Standards will normally refer the
-matter to an administrative hearing for resolution in absentia.
-b) Panel Hearing
-A student may choose to have his or her case resolved through a panel hearing. These cases
-will be heard by hearing panels comprised of members of the Committee on Student Conduct.
-When a student chooses not to participate in the resolution of allegations of violations of this
-Code and the sanctions may likely result in suspension or dismissal, Student Conduct and
-Community Standards will normally refer the matter to a panel hearing for resolution in
-absentia.
-c) Pre-Hearing Process
-(1) Exchange of Information
-Prior to any hearing the student will provide Student Conduct and Community Standards
-with copies of all information relevant to the incident to be shared at the hearing and a list
-of possible witnesses. It is the responsibility of the student to ensure that his or her
-witnesses are present. (If a witness is not able to be present and would like to provide a
-written statement, the hearing body will decide if and how it will consider such
-information.) These items must be provided to Student Conduct and Community
-Standards at least 5 days prior to the hearing. In order to ensure the hearing body has the
-most complete information available to review and resolve the incident, Student Conduct
-and Community Standards may also provide witnesses and/or other information on behalf
-of the University. Early access to these materials allows the hearing body to review the
-information and prepare questions. The student will also have access to this information
-in advance of the hearing in order to prepare.
-The student may pick up a copy of the above mentioned materials and hearing packet
-from Student Conduct and Community Standards at least 5 days prior to the hearing. The
-release of information pursuant to this section may be subject to limitations imposed by
-state and federal law. (See Berkeley Campus Policy Governing Disclosure of Information
-from Student Records in Appendix I).
-(2) Procedural Matters
-The hearing body will review and decide on procedural questions in advance of or at the
-beginning of a hearing process, or during the hearing as necessary and appropriate.
-d) The Hearing
-Conduct hearings will be held when the case is not resolved informally. Student Conduct
-hearings begin within 45 days from the date the notice of charges was emailed to the charged
-student by Student Conduct and Community Standards. Written notice of the date, time, and
-location of the hearing will be sent to the student via email at least ten days before the
-hearing. (See Notice, page 14)
-(1) Presentation of Information
-Hearings are not conducted according to formal rules of procedure and evidence. Unless
-otherwise determined by the hearing body, Student Conduct and Community Standards
-will share information, and present witnesses in support of the charges first and the
-charged student will have the same opportunity to share information, and present
-witnesses thereafter. All witnesses brought before the hearing panel will be questioned
-first by the hearing body.
-Once the hearing body has completed its questioning of a witness, Student Conduct and
-Community Standards and the charged student will each be given the opportunity to ask
-any remaining questions. The student must choose one of the following methods for all
-follow-up questioning: either 1) all follow-up questions are asked by the student and the
-Conduct Officer, or 2) all follow-up questions are submitted by the student and Student
-Conduct and Community Standards to the panel in writing as they arise during the course
-of the hearing. No later than the start of the hearing, the student will elect his or her
-questioning method in writing. The student’s choice of questioning method is also
-binding upon Student Conduct and Community Standards and applies throughout the
-hearing. The student and Student Conduct and Community Standards will each be given
-an opportunity to make both opening and closing statements. (See the FAQs about the
-Hearing Process in Appendix IV)
-(2) Decisions during the Hearing
-The hearing body will only decide on questions of procedure and information related to
-the hearing process, including but not limited to the order of presentation of information,
-admissibility of information, applicability of regulations to a particular case, and
-relevance of information presented. If a challenge arises concerning the constitutionality
-or legality of an application of any such regulations or policies to a particular case, the
-hearing will continue and the challenge may be submitted by the hearing body in writing
-to the Vice Chancellor for Student Affairs, who will seek legal advice from the Office of
-Legal Affairs. Neither the faculty chair, hearing panel, nor the hearing officer is permitted
-to dismiss a case. Resolution must be made through the hearing process.
-(3) Question and Answer
-No person is required to provide information against him or herself in any conduct
-proceeding. Information shared will normally not be admissible unless the opposing
-party is afforded the opportunity to confront and a reasonable opportunity to ask
-questions of the witness. (See Presentation of Information, page 10). However, if a
-witness is unavailable or declines to attend, the hearing body will determine whether
-written or other recorded statements of such witness will be admitted.
-(4) All Information Presented at the Hearing; Hearings in Absentia
-The hearing body’s decision will be based only upon information introduced at the
-hearing in the presence of the charged student unless the student: (a) fails to appear after
-appropriate notice has been given or (b) otherwise waives his or her right to be present.
-Neither the charged student nor Student Conduct and Community Standards may
-communicate information regarding the merits of the case or its disposition to the hearing
-body without the other party being afforded an opportunity to respond. However, if the
-student does not appear at the hearing, the hearing body will proceed in the student’s
-absence and the decision will have the same force and effect as if the student had been
-present.
-(5) Standard of Proof
-Student Conduct and Community Standards bears the burden of proving the charges. The
-standard of proof for all hearings is a preponderance of evidence. A preponderance of
-evidence is generally defined as “greater than 50%” or alternatively “more likely than
-not.”
-(6) Admissibility of Information
-Admissible information is the sort upon which responsible persons are accustomed to rely
-in the conduct of serious affairs, and is not restricted to evidence admissible under the
-strict rules of evidence of a court of law. The hearing body will not consider information
-that it determines has been obtained by fundamentally unfair means.
-(7) Prior Conduct Record
-The hearing body will take into account the student’s prior conduct record, if any, only
-for purpose of determining an appropriate sanction unless the information is considered
-to be relevant to the charges.
-(8) Information in Cases of Sexual Assault or Rape
-The privacy interests of the parties will be considered by the hearing body in making
-decisions about the introduction of information. In cases involving allegations of sexual
-assault or rape, information regarding an individual's sexual history and practices will be
-considered only when it is determined that the information is directly relevant to the
-claims and essential to fair resolution of the matter.
-e) Hearing Body’s Recommendation and Dean of Students’ Decision
-The hearing body’s decision will be documented in a report that includes a summary of the
-student’s behavior and a determination of whether the student has been found responsible or
-not of each alleged violation of the Code of Student Conduct. The hearing body will also
-recommend to the Dean of Students or his/her designee specific sanctions to be imposed if it
-finds the student in violation of the Code. A copy of the report prepared by the hearing body
-will be sent by email to the student and delivered to the Dean of Students and Student
-Conduct and Community Standards within ten days of the hearing.
-Based upon the findings of the hearing body and any recommendation for sanctioning, the
-Dean of Students or his/her designee will determine the sanction to be imposed. A written
-statement of the Dean of Student’s or his/her designee’s final decision on sanctioning will be
-sent by email to the accused student within ten days of receiving the hearing body’s report.
-f) Recommendation to Revoke Degree Previously Conferred
-(1) If the hearing body determines that a student has committed an act of academic
-dishonesty or fraud affecting the acquisition of his or her degree, the Dean of
-Students or his/her designee may forward a recommendation that the degree be
-revoked to the Committee on Courses of the Academic Senate. A Notice of Intent to
-Recommend Revocation of Degree will be sent via email to the accused student with
-the written statement of decision, as described in Hearing Body’s Recommendation
-and Dean of Students’ Decision (page 12).
-(2) The Dean of Students’ or his/her designee’s recommendation will not be forwarded
-to the Committee on Courses until expiration of the time to file a written appeal as
-described in Appeal of the Hearing Body and Dean of Students’ Decisions (page 13),
-or until determination that the appeal by the Vice Chancellor for Student Affairs or
-his/her designee has been completed.
-(3) The Committee on Courses makes the final decision as to revocation of the degree.
-This determination is not appealable to the Vice Chancellor for Student Affairs as
-described below in section Appeal of the Hearing Body and Dean of Students’
-Decisions (page 13).
-g) Consolidation of Hearings
-Cases in which more than one student is charged with violating the same Code section(s) and
-which depend on common evidence may, at the discretion of Student Conduct and
-Community Standards, either be considered jointly in a single consolidated hearing or be
-assigned to separate, individual hearings. All charged students must waive their rights to
-confidentiality before the hearing may be consolidated. See Berkeley Campus Policy
-Governing Disclosure of Information from Student Records (See Appendix I). When an
-individual student is alleged to have violated Code in separate incidents the cases may be
-resolved in a single hearing process, when appropriate.
-h) Record of the Hearing
-Student Conduct and Community Standards will make an official recording of the hearing, a
-copy of which must be made available to the accused student upon request. The student may,
-at his or her own expense, use the services of a professional stenographer during the hearing.
-In some instances the recording may have to be transcribed before it can be released (See
-Berkeley Campus Policy Governing Disclosure of Information from Student Records in
-Appendix I).
-i) Hearings Generally Closed to the Public
-Hearings are closed unless the accused student and the hearing body mutually agree to open
-the hearing to the public. The student must submit a written request for a public hearing to
-the hearing body seven days in advance of the scheduled hearing date. If the request for an
-open hearing is denied, the hearing body will provide a rationale in writing. In a consolidated
-hearing, all accused students must waive their rights to confidentiality and to a closed hearing
-before it may be opened to the public. In all hearings, accused students may have a nonparticipating observer present. The hearing body may close any hearing to the public when
-necessary to maintain order or to protect the rights of the participants including the privacy
-rights of student witnesses. In cases concerning allegations of sexual misconduct or other
-allegations involving important privacy interests, the hearing body may close a hearing upon
-determining that the privacy rights of a party or witness may otherwise be jeopardized.
-D. Appeal of the Hearing Body and Dean of Students’ Decisions
-Appeals of the hearing body and the Dean of Students’ or his/her designee’s decisions must be
-addressed in writing to the Vice Chancellor for Student Affairs or his/her designee.
-1. Timeline for the Appeal
-Within ten days of the emailing of the written notification of the Dean of Students’ or his/her
-designee’s final decision, either the charged student or Student Conduct and Community
-Standards may submit a written appeal to the Vice Chancellor for Student Affairs or his/her
-designee. When such an appeal is timely submitted by a party, the Vice Chancellor or his/her
-designee must promptly send a copy of the appeal to the other party. Within five days of receiving
-the copy, the other party may submit a written response to the Vice Chancellor or his/her designee.
-2. Suspension of Sanctions Before the Appeal
-The filing of a timely appeal suspends the imposition of sanctions until the appeal is decided, but
-interim action may be taken as determined by the Dean of Students or his/her designee. Grades or
-degrees may be withheld pending conclusion of the appeal.
-3. Basis for Appeal
-An appeal must be based on newly discovered evidence that was not available at the time of the
-hearing, significant procedural error, or upon other evidence or arguments which, for good cause,
-should be considered.
-4. Final Determination of Appeal
-The Vice Chancellor for Student Affairs, or his/her designee, will make the final determination of
-all cases appealed under these regulations. Except in cases where the appeal is based upon newly
-discovered evidence, the Vice Chancellor or his/her designee will review the record of the hearing
-and will not consider information that was not part of that record, other than the student's prior
-conduct record, if any. The Vice Chancellor for Student Affairs or his/her designee may approve,
-reject, or modify the decision and sanction in question, or require that the original hearing be reopened. Where the appeal is based upon new information, the case may be referred back to the
-hearing body for further consideration. The action taken will be communicated in writing to the
-student and Student Conduct and Community Standards within fifteen days after receipt of the
-appeal and related documents.
+
+  The Center for Student Conduct and Community Standards is responsible for administering the Code on
+  behalf of the campus. Student Conduct and Community Standards handles complaints of both academic
+  and non-academic violations of the Code. Faculty members may resolve academic violations separately or
+  in conjunction with Student Conduct and Community Standards. (See Faculty Informal Resolution of
+  Academic Violations, page 8) Each case is handled individually and, while due process is always provided,
+  every procedure outlined in the Code may not be employed in a particular case. The timelines set forth in
+  this document may be extended in unusual circumstances as determined by the Dean of Students or his/her
+  designee. Requests for extensions and approvals must be made in writing and all parties will be notified of
+  the extension granted.
+
+  A. Filing a Complaint and Investigation of Allegations
+
+    1. Filing a Complaint
+
+      Most cases begin with a complaint alleging that a student has committed an academic or non-academic
+      violation of the Code. Any member of the faculty or staff, a student or any other person may file a
+      complaint with Student Conduct and Community Standards. Complaints alleging violation of certain
+      campus policies, such as the Sexual Harassment Policy (see Appendix I), must be filed within time
+      limits prescribed in those policies. Student Conduct and Community Standards may also
+      independently investigate information concerning student misconduct from any source, such as police
+      and/or press reports, even where no formal complaint has been filed.
+
+    2. Sexual Harassment Complaints
+
+      In cases involving sexual harassment and/or gender discrimination, the investigation of specific
+      allegations will be conducted by the Title IX Compliance Officer or other officer designated by the
+      Chancellor in accordance with the Berkeley Campus Policy on Sexual Harassment and Complaint
+      Resolution Procedures or the Student Grievance Procedure (see Appendix I). In cases involving a
+      complaint of rape or sexual assault, the investigation of specific allegations will be directed by the
+      Title IX Compliance Officer and conducted by Student Conduct and Community Standards. The
+      Title IX Compliance Officer will decide whether sexual assault and sexual harassment cases
+      should be pursued by Student Conduct and Community Standards.
+
+    3. Complaints Relating to University Housing
+
+      Students residing in University-owned and/or operated housing facilities who violate the
+      Residential Code of Conduct (See Appendix I) may be adjudicated under the process outlined in
+      the Residential Code of Conduct or referred directly to Student Conduct and Community
+      Standards.
+
+  B. Investigation of Misconduct
+
+    Student Conduct and Community Standards will conduct an investigation of complaints of alleged
+    misconduct and determine whether sufficient information exists to proceed with a conduct process.
+    One of the following actions will then be taken:
+
+    1. Not Pursued
+
+      a) Insufficient Evidence
+
+        If Student Conduct and Community Standards determines that there is insufficient evidence to
+        support an allegation of violation of the Code, charges against the accused student will not be
+        pursued.
+
+      b) Notification
+
+        Instead of pursuing charges against a student that has allegedly violated the Code, Student
+        Conduct and Community Standards may issue a written notification to a student that his or her
+        alleged behavior may have violated University policy, campus regulations or the Code and
+        that, if repeated such behavior will be subject to the conduct process. The Notification does
+        not result in a conduct record and therefore is not appealable. However, in order to enhance
+        the sanction, the prior alleged behavior as detailed in the Notification may be introduced in a
+        subsequent conduct process for the purpose of establishing that the student has been warned
+        about such behavior.
+
+    2. Case Charged
+
+      a) Notice of Charges
+
+        If Student Conduct and Community Standards determines that there is sufficient information
+        that supports the allegation the student will be notified of the charges under the Code. The
+        written notice of charges advises the student of: the University Policy or campus regulation
+        the student is alleged to have violated; a brief summary of the incident including, wherever
+        possible, the date, time, and location of the alleged offense; a statement that the student may
+        be accompanied by an advisor at any stage of the conduct proceedings at his or her own
+        expense; the opportunity to meet with a staff member of Student Conduct and Community
+        Standards to discuss resolution of the charges pursuant to Informal Resolution of Allegations
+        (page 8) of this Code; the right to a hearing to contest the allegations; and Student Conduct
+        and Community Standards’ intent to proceed to hearing unless the student meets with staff
+        and informally resolves the charges. See the Overview of the Conduct Process in Appendix
+        III.
+
+        Notice to student organizations will be addressed to the president, principal officer, student
+        group signatory or other students designated by the group to act as an agent on behalf of the
+        group.
+
+      b) Advisory Review Committee
+
+        Student Conduct and Community Standards may seek the advice of an Advisory Review
+        Committee with respect to pursuing or charging a case or with sanctioning pursuant to an
+        informal resolution. Hearing bodies may also seek the advice of an Advisory Review
+        Committee for the purpose of determining an appropriate sanction. This committee will also
+        conduct any hearings required in connection with an Interim Suspension (See Interim
+        Suspension, page 19). Advisory Review Committees will be formed on an as-needed basis
+        from the members of the Committee on Student Conduct and will include three members: a
+        faculty chair, one student and one staff member. Advisory review committee members
+        responsible for making decisions related to pursuing or charging a case will not be seated on
+        the hearing panel for that case.
+
+  C. Resolution of Charged Cases
+
+    Students may choose to resolve their cases either informally through meetings with Student Conduct
+    and Community Standards staff or formally through a hearing process. In either case, a student may
+    request a copy of his or her own conduct record from Student Conduct and Community Standards.
+    Student Conduct and Community Standards must provide a copy within three days of such requests.
+    The release of such information may be subject to limitations imposed by state and federal law. (See
+    Berkeley Campus Policy Governing Disclosure of Information from Student Records in Appendix I for
+    further information.)
+
+    1. Informal Resolution of Allegations
+
+      a) Student Conduct Informal Resolution
+
+        Students charged with Code violations are offered the opportunity to meet with Student
+        Conduct and Community Standards to resolve their case without a formal hearing. Cases may
+        be resolved informally if the charged student, at any time prior to the hearing, admits violating
+        the Code as charged or otherwise accepts an informal resolution. Informal resolutions
+        generally include sanctions as described in Conduct Sanctions (page 19) combined with
+        enhancements such as community service, additional educational requirements, written
+        assignments, etc. If the Student Conduct Officer and the student reach a mutually acceptable
+        agreement regarding sanctions, no hearing will be held. A student agreeing to an informal
+        resolution must understand that by accepting the informal resolution he or she is waiving his
+        or her rights to a hearing and any further appeal. If no agreement is reached, the matter will
+        proceed to a hearing. (See also Faculty Resolution of Academic Violations, page 8)
+
+      b) Additional Informal Resolution Options
+
+        In some cases additional options for informal resolution may be appropriate. These options
+        could include, but are not limited to: mediation, peer review boards, and restorative processes.
+        Student Conduct and Community Standards staff will determine when these options for
+        resolution may be appropriate and make referrals.
+
+      c) Faculty Resolution of Academic Violations
+
+        (1) Generally
+
+          Faculty members may choose to informally resolve incidents of academic misconduct or
+          may refer such complaints to Student Conduct and Community Standards. All faculty
+          dispositions will be reported to Student Conduct and Community Standards, either for
+          adjudication (as described in Resolution of Charged Cases, page 7) or for record-keeping
+          purposes. If the student has a prior history of misconduct at the University, Student
+          Conduct and Community Standards may adjudicate the matter after consultation with the
+          instructor or faculty member.
+
+        (2) Initial Investigation
+
+          Instructors or faculty members attempting to settle academic matters will discuss
+          allegations of academic misconduct with the student directly and, if appropriate, others
+          involved in the suspected academic violation. If the student maintains innocence of the
+          violation and the instructor or faculty member determines that no such violation occurred,
+          he or she may cease investigating the complaint.
+
+        (3) Faculty Determined Disposition
+
+          If, upon discussion, the student admits the violation, the instructor may impose an
+          appropriate academic sanction after confirming with Student Conduct and Community
+          Standards that the student has no prior history of academic misconduct. If the student
+          does not admit to the academic misconduct or consent to the sanction proposed by the
+          faculty member, the matter will be adjudicated through Student Conduct and Community
+          Standards. Academic sanctions may only be imposed by faculty members and include
+          but are not limited to resubmitting assignments and grade adjustments. Faculty members
+          may not impose sanctions as listed in Conduct Sanctions (page 19). All faculty
+          dispositions will be reported to Student Conduct and Community Standards for recordkeeping purposes.
+
+        (4) Referral to Student Conduct and Community Standards
+
+          If the instructor or faculty member is unable to, or elects not to resolve the complaint
+          with the student, he or she will report the alleged violation to Student Conduct and
+          Community Standards.
+
+          If the student, in discussion with the instructor or faculty member, maintains innocence of
+          the alleged violation and the instructor or faculty member believes a violation did occur,
+          he or she will report the alleged violation to Student Conduct and Community Standards.
+          If a student is found responsible for academic violations of the Code academic sanctions
+          may be imposed by the faculty member (see Faculty Determined Disposition, page 8) and
+          non-academic sanctions imposed by Student Conduct and Community Standards or the
+          hearing body . (See Conduct Sanctions, page 19)
+
+          When an instructor or faculty member reports an alleged academic violation to Student
+          Conduct and Community Standards, a course grade of "I" (Incomplete) will be noted on
+          the grade sheet pending resolution of the allegation. When the alleged violation is
+          reported to Student Conduct and Community Standards, it will be handled as outlined in
+          section Resolution of Charged Cases (page 7).
+
+        (5) Notice of Final Disposition
+
+          The instructor or faculty member will, in all cases, be informed of the disposition of the
+          allegations by Student Conduct and Community Standards to the extent permitted by
+          applicable law and University policy.
+
+    2. Formal Hearing Processes
+
+      Cases will be resolved through a formal hearing process unless resolved informally (See Student
+      Conduct Informal Resolution, page 8) through either Student Conduct and Community Standards
+      or a faculty disposition (see Faculty Resolution of Academic Violations, page 8) Both the student
+      and Student Conduct and Community Standards will have an opportunity to present witnesses for
+      questioning (see Presentation of Information, page 10). The student may request a copy of his or
+      her disciplinary file at any time in order to prepare for a hearing. Student Conduct and Community
+      Standards must provide copies within three days of such requests. The release of information
+      pursuant to this section may be subject to limitations imposed by state and federal lay. (See
+      Berkeley Campus Policy Governing Disclosure of Information from Student Records in Appendix
+      I). A student may choose a hearing panel or administrative hearing as outlined below:
+
+      a) Administrative Hearing
+
+        A student may choose to have his or her case resolved through an administrative hearing.
+        These cases will be heard by a single hearing officer who is a staff member in Student
+        Conduct and Community Standards. When a student chooses not to participate in the
+        resolution of allegations of violation of this Code, and the outcome will not likely result in
+        suspension or dismissal, Student Conduct and Community Standards will normally refer the
+        matter to an administrative hearing for resolution in absentia.
+
+      b) Panel Hearing
+
+        A student may choose to have his or her case resolved through a panel hearing. These cases
+        will be heard by hearing panels comprised of members of the Committee on Student Conduct.
+        When a student chooses not to participate in the resolution of allegations of violations of this
+        Code and the sanctions may likely result in suspension or dismissal, Student Conduct and
+        Community Standards will normally refer the matter to a panel hearing for resolution in
+        absentia.
+
+      c) Pre-Hearing Process
+
+        (1) Exchange of Information
+
+          Prior to any hearing the student will provide Student Conduct and Community Standards
+          with copies of all information relevant to the incident to be shared at the hearing and a list
+          of possible witnesses. It is the responsibility of the student to ensure that his or her
+          witnesses are present. (If a witness is not able to be present and would like to provide a
+          written statement, the hearing body will decide if and how it will consider such
+          information.) These items must be provided to Student Conduct and Community
+          Standards at least 5 days prior to the hearing. In order to ensure the hearing body has the
+          most complete information available to review and resolve the incident, Student Conduct
+          and Community Standards may also provide witnesses and/or other information on behalf
+          of the University. Early access to these materials allows the hearing body to review the
+          information and prepare questions. The student will also have access to this information
+          in advance of the hearing in order to prepare.
+
+          The student may pick up a copy of the above mentioned materials and hearing packet
+          from Student Conduct and Community Standards at least 5 days prior to the hearing. The
+          release of information pursuant to this section may be subject to limitations imposed by
+          state and federal law. (See Berkeley Campus Policy Governing Disclosure of Information
+          from Student Records in Appendix I).
+
+        (2) Procedural Matters
+
+          The hearing body will review and decide on procedural questions in advance of or at the
+          beginning of a hearing process, or during the hearing as necessary and appropriate.
+
+      d) The Hearing
+
+        Conduct hearings will be held when the case is not resolved informally. Student Conduct
+        hearings begin within 45 days from the date the notice of charges was emailed to the charged
+        student by Student Conduct and Community Standards. Written notice of the date, time, and
+        location of the hearing will be sent to the student via email at least ten days before the
+        hearing. (See Notice, page 14)
+
+        (1) Presentation of Information
+
+          Hearings are not conducted according to formal rules of procedure and evidence. Unless
+          otherwise determined by the hearing body, Student Conduct and Community Standards
+          will share information, and present witnesses in support of the charges first and the
+          charged student will have the same opportunity to share information, and present
+          witnesses thereafter. All witnesses brought before the hearing panel will be questioned
+          first by the hearing body.
+
+          Once the hearing body has completed its questioning of a witness, Student Conduct and
+          Community Standards and the charged student will each be given the opportunity to ask
+          any remaining questions. The student must choose one of the following methods for all
+          follow-up questioning: either 1) all follow-up questions are asked by the student and the
+          Conduct Officer, or 2) all follow-up questions are submitted by the student and Student
+          Conduct and Community Standards to the panel in writing as they arise during the course
+          of the hearing. No later than the start of the hearing, the student will elect his or her
+          questioning method in writing. The student’s choice of questioning method is also
+          binding upon Student Conduct and Community Standards and applies throughout the
+          hearing. The student and Student Conduct and Community Standards will each be given
+          an opportunity to make both opening and closing statements. (See the FAQs about the
+          Hearing Process in Appendix IV)
+
+        (2) Decisions during the Hearing
+
+          The hearing body will only decide on questions of procedure and information related to
+          the hearing process, including but not limited to the order of presentation of information,
+          admissibility of information, applicability of regulations to a particular case, and
+          relevance of information presented. If a challenge arises concerning the constitutionality
+          or legality of an application of any such regulations or policies to a particular case, the
+          hearing will continue and the challenge may be submitted by the hearing body in writing
+          to the Vice Chancellor for Student Affairs, who will seek legal advice from the Office of
+          Legal Affairs. Neither the faculty chair, hearing panel, nor the hearing officer is permitted
+          to dismiss a case. Resolution must be made through the hearing process.
+
+        (3) Question and Answer
+
+          No person is required to provide information against him or herself in any conduct
+          proceeding. Information shared will normally not be admissible unless the opposing
+          party is afforded the opportunity to confront and a reasonable opportunity to ask
+          questions of the witness. (See Presentation of Information, page 10). However, if a
+          witness is unavailable or declines to attend, the hearing body will determine whether
+          written or other recorded statements of such witness will be admitted.
+
+        (4) All Information Presented at the Hearing; Hearings in Absentia
+
+          The hearing body’s decision will be based only upon information introduced at the
+          hearing in the presence of the charged student unless the student: (a) fails to appear after
+          appropriate notice has been given or (b) otherwise waives his or her right to be present.
+          Neither the charged student nor Student Conduct and Community Standards may
+          communicate information regarding the merits of the case or its disposition to the hearing
+          body without the other party being afforded an opportunity to respond. However, if the
+          student does not appear at the hearing, the hearing body will proceed in the student’s
+          absence and the decision will have the same force and effect as if the student had been
+          present.
+
+        (5) Standard of Proof
+
+          Student Conduct and Community Standards bears the burden of proving the charges. The
+          standard of proof for all hearings is a preponderance of evidence. A preponderance of
+          evidence is generally defined as “greater than 50%” or alternatively “more likely than
+          not.”
+
+        (6) Admissibility of Information
+
+          Admissible information is the sort upon which responsible persons are accustomed to rely
+          in the conduct of serious affairs, and is not restricted to evidence admissible under the
+          strict rules of evidence of a court of law. The hearing body will not consider information
+          that it determines has been obtained by fundamentally unfair means.
+
+        (7) Prior Conduct Record
+
+          The hearing body will take into account the student’s prior conduct record, if any, only
+          for purpose of determining an appropriate sanction unless the information is considered
+          to be relevant to the charges.
+
+        (8) Information in Cases of Sexual Assault or Rape
+
+          The privacy interests of the parties will be considered by the hearing body in making
+          decisions about the introduction of information. In cases involving allegations of sexual
+          assault or rape, information regarding an individual's sexual history and practices will be
+          considered only when it is determined that the information is directly relevant to the
+          claims and essential to fair resolution of the matter.
+
+      e) Hearing Body’s Recommendation and Dean of Students’ Decision
+
+        The hearing body’s decision will be documented in a report that includes a summary of the
+        student’s behavior and a determination of whether the student has been found responsible or
+        not of each alleged violation of the Code of Student Conduct. The hearing body will also
+        recommend to the Dean of Students or his/her designee specific sanctions to be imposed if it
+        finds the student in violation of the Code. A copy of the report prepared by the hearing body
+        will be sent by email to the student and delivered to the Dean of Students and Student
+        Conduct and Community Standards within ten days of the hearing.
+
+        Based upon the findings of the hearing body and any recommendation for sanctioning, the
+        Dean of Students or his/her designee will determine the sanction to be imposed. A written
+        statement of the Dean of Student’s or his/her designee’s final decision on sanctioning will be
+        sent by email to the accused student within ten days of receiving the hearing body’s report.
+
+      f) Recommendation to Revoke Degree Previously Conferred
+
+        (1) If the hearing body determines that a student has committed an act of academic
+        dishonesty or fraud affecting the acquisition of his or her degree, the Dean of
+        Students or his/her designee may forward a recommendation that the degree be
+        revoked to the Committee on Courses of the Academic Senate. A Notice of Intent to
+        Recommend Revocation of Degree will be sent via email to the accused student with
+        the written statement of decision, as described in Hearing Body’s Recommendation
+        and Dean of Students’ Decision (page 12).
+
+        (2) The Dean of Students’ or his/her designee’s recommendation will not be forwarded
+        to the Committee on Courses until expiration of the time to file a written appeal as
+        described in Appeal of the Hearing Body and Dean of Students’ Decisions (page 13),
+        or until determination that the appeal by the Vice Chancellor for Student Affairs or
+        his/her designee has been completed.
+
+        (3) The Committee on Courses makes the final decision as to revocation of the degree.
+        This determination is not appealable to the Vice Chancellor for Student Affairs as
+        described below in section Appeal of the Hearing Body and Dean of Students’
+        Decisions (page 13).
+
+      g) Consolidation of Hearings
+
+        Cases in which more than one student is charged with violating the same Code section(s) and
+        which depend on common evidence may, at the discretion of Student Conduct and
+        Community Standards, either be considered jointly in a single consolidated hearing or be
+        assigned to separate, individual hearings. All charged students must waive their rights to
+        confidentiality before the hearing may be consolidated. See Berkeley Campus Policy
+        Governing Disclosure of Information from Student Records (See Appendix I). When an
+        individual student is alleged to have violated Code in separate incidents the cases may be
+        resolved in a single hearing process, when appropriate.
+
+      h) Record of the Hearing
+
+        Student Conduct and Community Standards will make an official recording of the hearing, a
+        copy of which must be made available to the accused student upon request. The student may,
+        at his or her own expense, use the services of a professional stenographer during the hearing.
+        In some instances the recording may have to be transcribed before it can be released (See
+        Berkeley Campus Policy Governing Disclosure of Information from Student Records in
+        Appendix I).
+
+      i) Hearings Generally Closed to the Public
+
+        Hearings are closed unless the accused student and the hearing body mutually agree to open
+        the hearing to the public. The student must submit a written request for a public hearing to
+        the hearing body seven days in advance of the scheduled hearing date. If the request for an
+        open hearing is denied, the hearing body will provide a rationale in writing. In a consolidated
+        hearing, all accused students must waive their rights to confidentiality and to a closed hearing
+        before it may be opened to the public. In all hearings, accused students may have a
+        nonparticipating observer present. The hearing body may close any hearing to the public when
+        necessary to maintain order or to protect the rights of the participants including the privacy
+        rights of student witnesses. In cases concerning allegations of sexual misconduct or other
+        allegations involving important privacy interests, the hearing body may close a hearing upon
+        determining that the privacy rights of a party or witness may otherwise be jeopardized.
+
+  D. Appeal of the Hearing Body and Dean of Students’ Decisions
+
+    Appeals of the hearing body and the Dean of Students’ or his/her designee’s decisions must be
+    addressed in writing to the Vice Chancellor for Student Affairs or his/her designee.
+
+    1. Timeline for the Appeal
+
+      Within ten days of the emailing of the written notification of the Dean of Students’ or his/her
+      designee’s final decision, either the charged student or Student Conduct and Community
+      Standards may submit a written appeal to the Vice Chancellor for Student Affairs or his/her
+      designee. When such an appeal is timely submitted by a party, the Vice Chancellor or his/her
+      designee must promptly send a copy of the appeal to the other party. Within five days of receiving
+      the copy, the other party may submit a written response to the Vice Chancellor or his/her designee.
+
+    2. Suspension of Sanctions Before the Appeal
+
+      The filing of a timely appeal suspends the imposition of sanctions until the appeal is decided, but
+      interim action may be taken as determined by the Dean of Students or his/her designee. Grades or
+      degrees may be withheld pending conclusion of the appeal.
+
+    3. Basis for Appeal
+
+      An appeal must be based on newly discovered evidence that was not available at the time of the
+      hearing, significant procedural error, or upon other evidence or arguments which, for good cause,
+      should be considered.
+
+    4. Final Determination of Appeal
+
+      The Vice Chancellor for Student Affairs, or his/her designee, will make the final determination of
+      all cases appealed under these regulations. Except in cases where the appeal is based upon newly
+      discovered evidence, the Vice Chancellor or his/her designee will review the record of the hearing
+      and will not consider information that was not part of that record, other than the student's prior
+      conduct record, if any. The Vice Chancellor for Student Affairs or his/her designee may approve,
+      reject, or modify the decision and sanction in question, or require that the original hearing be
+      reopened. Where the appeal is based upon new information, the case may be referred back to the
+      hearing body for further consideration. The action taken will be communicated in writing to the
+      student and Student Conduct and Community Standards within fifteen days after receipt of the
+      appeal and related documents.
 
 III. Definitions
-A. Student
-1. The term "student" for the purposes of this Code, means an individual for whom the
-University maintains student records and who:
-a) is enrolled in or registered with an academic program of the University;
-b) has completed the immediately preceding term and is eligible for reenrollment, including
-the recess periods between academic terms; or
-c) is on an approved educational leave or other approved leave status, or is on filing-fee
-status.
-2. The Code also applies to:
-a) applicants who become students, for offenses committed as part of the application
-process;
-b) applicants who become students, for offenses committed on campus and/or while
-participating in University-related events or activities that take place following a student's
-submittal of the application through his or her official enrollment; or
-c) former students for offenses committed while a student.
-B. Notice
-Wherever written notice to the student is required by the Code, it will be conclusively presumed to
-have been furnished if the notice is sent to the student by email to the email address most recently filed
-with the Registrar’s office. It will be conclusively presumed that written notice to a student
-organization has been furnished if the notice is sent by email to the email address provided by the
-student organization to the Center for Student Leadership or sponsoring department.
-C. Student Organization
-Unless otherwise stated, wherever this Code refers to “student” the same also applies to student
-organizations. “Student organization” means any group or organization of students of the University
-of California, Berkeley that has obtained official recognition as a student organization from an office
-or department of the campus. Communications with student organizations will be directed to the
-president, principal officer, student group signatory or other students designated by the group to act as
-an agent on behalf of the group.
-D. Days
-The term “days” is defined as the normal business day and does not include Saturdays, Sundays, legal
-holidays or University designated administrative holidays. With the mutual consent of the student,
-Student Conduct and Community Standards and the hearing body, hearings may be held outside of
-normal business hours, on Saturdays, Sundays or administrative holidays. Timelines set forth in this
-document may be extended in unusual circumstances as determined by the Dean of Students or his/her
-designee.
-E. Committee on Student Conduct
-1. Composition of Committee
-The Committee on Student Conduct is the body of individuals who serve on hearing panels and
-consists of faculty, staff and both graduate and undergraduate students. One undergraduate
-student may be nominated by the recognized student government and one graduate student may be
-nominated by the Graduate Assembly. Additional students are solicited from the community at
-large for appointment to the committee. Staff members are nominated by the Vice Chancellor for
-Student Affairs. Faculty members are nominated by the Academic Senate Committee on
-Committees. All members of the committee are appointed by the Chancellor or his/her designee.
-2. Hearing Panels
-Hearing panels are generally comprised of five members of the Committee on Student Conduct
-and include: one faculty member, one undergraduate student, one graduate student, one staff
-member and the faculty chair. Hearings may be heard by a quorum of three members of the
-Committee on Student Conduct so long as the faculty chair and one student are included on the
-panel. If the case involves an academic violation, at least two of the individuals hearing the case
-must be members of the faculty.
-3. Duration of Appointment
-Unless otherwise specified by the Chancellor, appointments to the Committee on Student Conduct
-will be made in the spring for terms beginning the following August 1. Faculty and staff
-appointments to the Committee normally last for a term of two years and student appointments to
-the Committee normally last for a term of one year, all commencing on August 1, and ending on
-July 31 or upon the appointment of the new committee members, whichever is later. Members
-may be appointed for successive terms.
+  A. Student
+    1. The term "student" for the purposes of this Code, means an individual for whom the
+    University maintains student records and who:
+      a) is enrolled in or registered with an academic program of the University;
+      b) has completed the immediately preceding term and is eligible for reenrollment, including
+      the recess periods between academic terms; or
+      c) is on an approved educational leave or other approved leave status, or is on filing-fee
+      status.
+    2. The Code also applies to:
+      a) applicants who become students, for offenses committed as part of the application
+      process;
+      b) applicants who become students, for offenses committed on campus and/or while
+      participating in University-related events or activities that take place following a student's
+      submittal of the application through his or her official enrollment; or
+      c) former students for offenses committed while a student.
+  B. Notice
+    Wherever written notice to the student is required by the Code, it will be conclusively presumed to
+    have been furnished if the notice is sent to the student by email to the email address most recently filed
+    with the Registrar’s office. It will be conclusively presumed that written notice to a student
+    organization has been furnished if the notice is sent by email to the email address provided by the
+    student organization to the Center for Student Leadership or sponsoring department.
+  C. Student Organization
+    Unless otherwise stated, wherever this Code refers to “student” the same also applies to student
+    organizations. “Student organization” means any group or organization of students of the University
+    of California, Berkeley that has obtained official recognition as a student organization from an office
+    or department of the campus. Communications with student organizations will be directed to the
+    president, principal officer, student group signatory or other students designated by the group to act as
+    an agent on behalf of the group.
+  D. Days
+    The term “days” is defined as the normal business day and does not include Saturdays, Sundays, legal
+    holidays or University designated administrative holidays. With the mutual consent of the student,
+    Student Conduct and Community Standards and the hearing body, hearings may be held outside of
+    normal business hours, on Saturdays, Sundays or administrative holidays. Timelines set forth in this
+    document may be extended in unusual circumstances as determined by the Dean of Students or his/her
+    designee.
+  E. Committee on Student Conduct
+    1. Composition of Committee
+      The Committee on Student Conduct is the body of individuals who serve on hearing panels and
+      consists of faculty, staff and both graduate and undergraduate students. One undergraduate
+      student may be nominated by the recognized student government and one graduate student may be
+      nominated by the Graduate Assembly. Additional students are solicited from the community at
+      large for appointment to the committee. Staff members are nominated by the Vice Chancellor for
+      Student Affairs. Faculty members are nominated by the Academic Senate Committee on
+      Committees. All members of the committee are appointed by the Chancellor or his/her designee.
+    2. Hearing Panels
+      Hearing panels are generally comprised of five members of the Committee on Student Conduct
+      and include: one faculty member, one undergraduate student, one graduate student, one staff
+      member and the faculty chair. Hearings may be heard by a quorum of three members of the
+      Committee on Student Conduct so long as the faculty chair and one student are included on the
+      panel. If the case involves an academic violation, at least two of the individuals hearing the case
+      must be members of the faculty.
+    3. Duration of Appointment
+      Unless otherwise specified by the Chancellor, appointments to the Committee on Student Conduct
+      will be made in the spring for terms beginning the following August 1. Faculty and staff
+      appointments to the Committee normally last for a term of two years and student appointments to
+      the Committee normally last for a term of one year, all commencing on August 1, and ending on
+      July 31 or upon the appointment of the new committee members, whichever is later. Members
+      may be appointed for successive terms.
+
 IV. Jurisdiction
-A. Generally
-These provisions govern student conduct on, or as it relates to University property, or at official
-University functions and University-sponsored programs conducted away from the campus.
-University property is defined for purposes of this Code as all land, buildings, facilities or other
-grounds or structures, or any item in possession of or owned, used, maintained or controlled by the
-University or designated by the campus as subject to these policies, including the International House.
-University property also includes computers and network systems owned, maintained or controlled by
-the University or funded by University budgets or designated by the campus as subject to these
-policies.
-B. Off-Campus Conduct
-1. The Geographic “Box”
-Student conduct that occurs off University property but within the geographic area immediately
-adjacent to the campus is subject to the Code. This includes all property bounded by Virginia
-Street on the north, Shattuck Avenue on the west, and Derby Street on the south. The eastern
-boundary, as it runs from north to south, is comprised of La Loma Avenue, Gayley Road, Prospect
-Street (between Orchard Steps and Dwight Way) and Warring Street, and includes property
-situated along both the east and west sides of said streets.
-2. Other Off-Campus Conduct
-Student conduct that occurs off University property and not within the area described in
-Geographic Box (page 15) and Conduct on Other UC Campuses (page 16) is subject to the Code
-where it a) adversely affects the health, safety, or security of any member of the University
-community, or the mission of the University, or b) involves academic work or any records, or
-documents of the University.
-In determining whether or not to exercise jurisdiction over such conduct, Student Conduct and
-Community Standards will consider the seriousness of the alleged offense, the risk of harm
-involved, whether the victim(s) are members of the campus community and/or whether the offcampus conduct is part of a series of actions that occurred both on and off University property.
-3. Conduct on Other UC Campuses
-A student at one campus of the University, who is accused of violation of University policies or
-campus regulations on another campus of the University, or at an official function of that campus,
-shall be subject to the disciplinary procedures of either the former or the latter campus as agreed
-by designees of both campuses. The imposition of any recommendations for disciplinary sanctions
-arising from these procedures must be reviewed and approved by both campuses before the
-sanctions are imposed.
+
+  A. Generally
+
+    These provisions govern student conduct on, or as it relates to University property, or at official
+    University functions and University-sponsored programs conducted away from the campus.
+    University property is defined for purposes of this Code as all land, buildings, facilities or other
+    grounds or structures, or any item in possession of or owned, used, maintained or controlled by the
+    University or designated by the campus as subject to these policies, including the International House.
+    University property also includes computers and network systems owned, maintained or controlled by
+    the University or funded by University budgets or designated by the campus as subject to these
+    policies.
+
+  B. Off-Campus Conduct
+
+    1. The Geographic “Box”
+
+      Student conduct that occurs off University property but within the geographic area immediately
+      adjacent to the campus is subject to the Code. This includes all property bounded by Virginia
+      Street on the north, Shattuck Avenue on the west, and Derby Street on the south. The eastern
+      boundary, as it runs from north to south, is comprised of La Loma Avenue, Gayley Road, Prospect
+      Street (between Orchard Steps and Dwight Way) and Warring Street, and includes property
+      situated along both the east and west sides of said streets.
+
+    2. Other Off-Campus Conduct
+
+      Student conduct that occurs off University property and not within the area described in
+      Geographic Box (page 15) and Conduct on Other UC Campuses (page 16) is subject to the Code
+      where it a) adversely affects the health, safety, or security of any member of the University
+      community, or the mission of the University, or b) involves academic work or any records, or
+      documents of the University.
+
+      In determining whether or not to exercise jurisdiction over such conduct, Student Conduct and
+      Community Standards will consider the seriousness of the alleged offense, the risk of harm
+      involved, whether the victim(s) are members of the campus community and/or whether the offcampus
+      conduct is part of a series of actions that occurred both on and off University property.
+
+    3. Conduct on Other UC Campuses
+
+      A student at one campus of the University, who is accused of violation of University policies or
+      campus regulations on another campus of the University, or at an official function of that campus,
+      shall be subject to the disciplinary procedures of either the former or the latter campus as agreed
+      by designees of both campuses. The imposition of any recommendations for disciplinary sanctions
+      arising from these procedures must be reviewed and approved by both campuses before the
+      sanctions are imposed.
 
 V. GROUNDS FOR DISCIPLINE
-The Chancellor may impose discipline for the commission or attempted commission (including aiding or
-abetting in the commission or attempted commission) of the following types of violations by students (as
-specified by University Policy 100.00, http://www.ucop.edu/ucophome/coordrev/ucpolicies/), as well as
-such other violations as may be specified in campus regulations:
-102.01 Academic Dishonesty
-All forms of academic misconduct including but not limited to cheating, fabrication, plagiarism, or
-facilitating academic dishonesty.
-102.02 Other Dishonesty
-Other forms of dishonesty including but not limited to fabricating information, bribery, furnishing false
-information, or reporting a false emergency to the University.
-102.03 Forgery
-Forgery, alteration, or misuse of any University document, record, key, electronic device, or
-identification.
-102.04 Theft
-Theft of, conversion of, destruction of, or damage to any property of the University, or any property of
-others while on University premises, or possession of any property when the student had knowledge or
-reasonably should have had knowledge that it was stolen.
-102.05 Electronic Resources (Revised, UCOP, October 20, 2008)
-Theft or abuse of University computers and other University electronic resources such as computer and
-electronic communications facilities, systems, and services. Abuses include (but are not limited to)
-unauthorized entry, use, transfer, or tampering with the communications of others; interference with
-the work of others and with the operation of computer and electronic communications facilities,
-systems, and services; or copyright infringement (for example, the illegal file-sharing of copyrighted
-materials).
-Use of University computer and electronic communications facilities, systems, or services that violates
-other University policies or campus regulations.
-Please refer to the UC Electronic Communications Policy
-(http://www.ucop.edu/ucophome/policies/ec/) and Digital Copyright Protection at UC
-(http://www.ucop.edu/irc/policy/copyright.html) for the University's position on digital copyright.
-102.06 Unauthorized Conduct
-Unauthorized entry to, possession of, receipt of, or use of any University services; equipment;
-resources; or properties, including the University’s name, insignia, or seal.
-102.07 University Housing
-Violation of policies, regulations, or rules governing University-owned, -operated, or -leased housing
-facilities or other housing facilities located on University property.
-102.08 Physical Abuse
-Physical abuse including but not limited to rape, sexual assault, sex offenses, and other physical
-assault; threats of violence; or other conduct that threatens the health or safety of any person. (See
-Berkeley Campus Student Policy and Procedures Regarding Sexual Assault and Rape or the Berkeley
-Campus Policy on Sexual Harassment and Complaint Resolution Procedures in Appendix I for further
-information).
-Title IX website: http://equity.chance.berkeley.edu/titleix.shtml
-102.09 Sexual, Racial, and Other Forms of Harassment (Interim) [Revised, UCOP, October
-2009]
-Sexual, racial, and other forms of harassment, defined as follows:
-Harassment is defined as conduct that is so severe and/or pervasive, and objectively offensive, and that
-so substantially impairs a person's access to University programs or activities, that the person is
-effectively denied equal access to the University's resources and opportunities on the basis of his or her
-race, color, national or ethnic origin, alienage, sex, religion, age, sexual orientation, gender identity,
-marital status, veteran status, physical or mental disability, or perceived membership in any of these
-classifications.
-Student Employees
-When employed by the University of California, and acting within the course and scope of that
-employment, students are subject to the University of California Policy on Sexual Harassment.
-Otherwise, Section 102.09, above, is the applicable standard for harassment by students.
-Both student and/or employee sexual harassment, please refer to the University of California
-Procedures for Responding to Reports of Sexual Harassment.
-102.10 Stalking
-Stalking behavior in which a student repeatedly engages in a course of conduct directed at another
-person and makes a credible threat with the intent to place that person in reasonable fear for his or her
-safety, or the safety of his or her family; where the threat is reasonably determined by the University to
-seriously alarm, torment, or terrorize the person; and where the threat is additionally determined by the
-University to serve no legitimate purpose.
-102.11 (Rescinded, UCOP, October 2009)
-102.12 Hazing
-Participation in hazing or any method of initiation or pre-initiation into a campus organization or other
-activity engaged in by the organization or members of the organization at any time that causes, or is
-likely to cause, physical injury or personal degradation or disgrace resulting in psychological harm to
-any student or other person. (See Statement on Hazing in Appendix I for further information).
-102.13 Obstruction of University Activities
-Obstruction or disruption of teaching, research, administration, disciplinary procedures, or other
-University activities.
-102.14 Disorderly Conduct
-Disorderly or lewd conduct.
-102.15 Disturbing the Peace
-Participation in a disturbance of the peace or unlawful assembly. (See Berkeley Campus Regulations
-Implementing University Policies in Appendix I for further information).
-102.16 Failure to Comply
-Failure to identify oneself to, or comply with the directions of, a University official or other public
-official acting in the performance of his or her duties while on University property or at official
-University functions; or resisting or obstructing such University or other public officials in the
-performance of or the attempt to perform their duties.
-102.17 Controlled Substances
-Unlawful manufacture, distribution, dispensing, possession, use, or sale of, or the attempted
-manufacture, distribution, dispensing, or sale of controlled substances, identified in federal and state
-law or regulations.
-102.18 Alcohol
-Manufacture, distribution, dispensing, possession, use, or sale of, or the attempted manufacture,
-distribution, dispensing, or sale of alcohol that is unlawful or otherwise prohibited by, or not in
-compliance with, University policy or campus regulations.
-102.19 Destructive Devices
-Possession, use, storage, or manufacture of explosives, firebombs, or other destructive devices.
-102.20 Weapons
-Possession, use, storage or manufacture of a firearm or other weapon.
-102.21 Disciplinary Actions
-Violation of the conditions contained in the terms of a disciplinary action imposed under this Code or
-campus regulations.
-102.22 Notice of Emergency Suspension
-Violation of the conditions contained in a written Notice of Emergency Suspension issued pursuant to
-Appendix II (“Emergency Suspension”) of this Code or violation of orders issued during a declared
-state of emergency (see University Policy section 52.00,
-http://www.ucop.edu/ucophome/coordrev/ucpolicies/aos/uc50.html).
-102.23 Course Materials
-Selling, preparing, or distributing for any commercial purpose course lecture notes or video or audio
-recordings of any course unless authorized by the University in advance and explicitly permitted by the
-course instructor in writing. The unauthorized sale or commercial distribution of course notes or
-recordings by a student is a violation of these Policies whether or not it was the student or someone
-else who prepared the notes or recordings.
-Copying for any commercial purpose handouts, readers or other course materials provided by an
-instructor as part of a University of California course unless authorized by the University in advance
-and explicitly permitted by the course instructor or the copyright holder in writing (if the instructor is
-not the copyright holder).
-102.24 Camping or Lodging
-Camping or lodging on University property other than in authorized facilities.
-102.25 Other Policies or Regulations
-Violation of any other University policy or campus regulation.
+  The Chancellor may impose discipline for the commission or attempted commission (including aiding or
+  abetting in the commission or attempted commission) of the following types of violations by students (as
+  specified by University Policy 100.00, http://www.ucop.edu/ucophome/coordrev/ucpolicies/), as well as
+  such other violations as may be specified in campus regulations:
+
+  102.01 Academic Dishonesty
+
+    All forms of academic misconduct including but not limited to cheating, fabrication, plagiarism, or
+    facilitating academic dishonesty.
+
+  102.02 Other Dishonesty
+
+    Other forms of dishonesty including but not limited to fabricating information, bribery, furnishing false
+    information, or reporting a false emergency to the University.
+
+  102.03 Forgery
+
+    Forgery, alteration, or misuse of any University document, record, key, electronic device, or
+    identification.
+
+  102.04 Theft
+
+    Theft of, conversion of, destruction of, or damage to any property of the University, or any property of
+    others while on University premises, or possession of any property when the student had knowledge or
+    reasonably should have had knowledge that it was stolen.
+
+  102.05 Electronic Resources (Revised, UCOP, October 20, 2008)
+
+    Theft or abuse of University computers and other University electronic resources such as computer and
+    electronic communications facilities, systems, and services. Abuses include (but are not limited to)
+    unauthorized entry, use, transfer, or tampering with the communications of others; interference with
+    the work of others and with the operation of computer and electronic communications facilities,
+    systems, and services; or copyright infringement (for example, the illegal file-sharing of copyrighted
+    materials).
+
+    Use of University computer and electronic communications facilities, systems, or services that violates
+    other University policies or campus regulations.
+
+    Please refer to the UC Electronic Communications Policy
+    (http://www.ucop.edu/ucophome/policies/ec/) and Digital Copyright Protection at UC
+    (http://www.ucop.edu/irc/policy/copyright.html) for the University's position on digital copyright.
+
+  102.06 Unauthorized Conduct
+
+    Unauthorized entry to, possession of, receipt of, or use of any University services; equipment;
+    resources; or properties, including the University’s name, insignia, or seal.
+
+  102.07 University Housing
+
+    Violation of policies, regulations, or rules governing University-owned, -operated, or -leased housing
+    facilities or other housing facilities located on University property.
+
+  102.08 Physical Abuse
+
+    Physical abuse including but not limited to rape, sexual assault, sex offenses, and other physical
+    assault; threats of violence; or other conduct that threatens the health or safety of any person. (See
+    Berkeley Campus Student Policy and Procedures Regarding Sexual Assault and Rape or the Berkeley
+    Campus Policy on Sexual Harassment and Complaint Resolution Procedures in Appendix I for further
+    information).
+
+    Title IX website: http://equity.chance.berkeley.edu/titleix.shtml
+  102.09 Sexual, Racial, and Other Forms of Harassment (Interim) [Revised, UCOP, October
+    2009]
+
+    Sexual, racial, and other forms of harassment, defined as follows:
+
+    Harassment is defined as conduct that is so severe and/or pervasive, and objectively offensive, and that
+    so substantially impairs a person's access to University programs or activities, that the person is
+    effectively denied equal access to the University's resources and opportunities on the basis of his or her
+    race, color, national or ethnic origin, alienage, sex, religion, age, sexual orientation, gender identity,
+    marital status, veteran status, physical or mental disability, or perceived membership in any of these
+    classifications.
+
+    Student Employees
+
+    When employed by the University of California, and acting within the course and scope of that
+    employment, students are subject to the University of California Policy on Sexual Harassment.
+    Otherwise, Section 102.09, above, is the applicable standard for harassment by students.
+    Both student and/or employee sexual harassment, please refer to the University of California
+    Procedures for Responding to Reports of Sexual Harassment.
+
+  102.10 Stalking
+
+    Stalking behavior in which a student repeatedly engages in a course of conduct directed at another
+    person and makes a credible threat with the intent to place that person in reasonable fear for his or her
+    safety, or the safety of his or her family; where the threat is reasonably determined by the University to
+    seriously alarm, torment, or terrorize the person; and where the threat is additionally determined by the
+    University to serve no legitimate purpose.
+
+  102.11 (Rescinded, UCOP, October 2009)
+
+  102.12 Hazing
+
+    Participation in hazing or any method of initiation or pre-initiation into a campus organization or other
+    activity engaged in by the organization or members of the organization at any time that causes, or is
+    likely to cause, physical injury or personal degradation or disgrace resulting in psychological harm to
+    any student or other person. (See Statement on Hazing in Appendix I for further information).
+
+  102.13 Obstruction of University Activities
+
+    Obstruction or disruption of teaching, research, administration, disciplinary procedures, or other
+    University activities.
+
+  102.14 Disorderly Conduct
+
+    Disorderly or lewd conduct.
+
+  102.15 Disturbing the Peace
+
+    Participation in a disturbance of the peace or unlawful assembly. (See Berkeley Campus Regulations
+    Implementing University Policies in Appendix I for further information).
+
+  102.16 Failure to Comply
+
+    Failure to identify oneself to, or comply with the directions of, a University official or other public
+    official acting in the performance of his or her duties while on University property or at official
+    University functions; or resisting or obstructing such University or other public officials in the
+    performance of or the attempt to perform their duties.
+
+  102.17 Controlled Substances
+
+    Unlawful manufacture, distribution, dispensing, possession, use, or sale of, or the attempted
+    manufacture, distribution, dispensing, or sale of controlled substances, identified in federal and state
+    law or regulations.
+
+  102.18 Alcohol
+
+    Manufacture, distribution, dispensing, possession, use, or sale of, or the attempted manufacture,
+    distribution, dispensing, or sale of alcohol that is unlawful or otherwise prohibited by, or not in
+    compliance with, University policy or campus regulations.
+
+  102.19 Destructive Devices
+
+    Possession, use, storage, or manufacture of explosives, firebombs, or other destructive devices.
+
+  102.20 Weapons
+
+    Possession, use, storage or manufacture of a firearm or other weapon.
+
+  102.21 Disciplinary Actions
+
+    Violation of the conditions contained in the terms of a disciplinary action imposed under this Code or
+    campus regulations.
+
+  102.22 Notice of Emergency Suspension
+
+    Violation of the conditions contained in a written Notice of Emergency Suspension issued pursuant to
+    Appendix II (“Emergency Suspension”) of this Code or violation of orders issued during a declared
+    state of emergency (see University Policy section 52.00,
+    http://www.ucop.edu/ucophome/coordrev/ucpolicies/aos/uc50.html).
+
+  102.23 Course Materials
+
+    Selling, preparing, or distributing for any commercial purpose course lecture notes or video or audio
+    recordings of any course unless authorized by the University in advance and explicitly permitted by the
+    course instructor in writing. The unauthorized sale or commercial distribution of course notes or
+    recordings by a student is a violation of these Policies whether or not it was the student or someone
+    else who prepared the notes or recordings.
+
+    Copying for any commercial purpose handouts, readers or other course materials provided by an
+    instructor as part of a University of California course unless authorized by the University in advance
+    and explicitly permitted by the course instructor or the copyright holder in writing (if the instructor is
+    not the copyright holder).
+
+  102.24 Camping or Lodging
+
+    Camping or lodging on University property other than in authorized facilities.
+
+  102.25 Other Policies or Regulations
+
+    Violation of any other University policy or campus regulation.
+
 VI. CONDUCT SANCTIONS
-When a student is found in violation of University policies or campus regulations, any of the following
-sanctions or combination thereof may be imposed. Any sanction imposed should be appropriate to the
-violation, taking into consideration the context and seriousness of the violation.
-105.01 Warning/Censure
-Written notice or reprimand to the student that a violation of specified University policies or campus
-regulations has occurred and that continued or repeated violations of University policies or campus
-regulations may be cause for further disciplinary action, normally in the form of Disciplinary
-Probation, and/or Loss of Privileges and Exclusion from Activities, Suspension, or Dismissal.
-105.02 [Rescinded May 17, 2002 per UCOP]
-105.03 Disciplinary Probation
-A status imposed for a specified period of time during which a student must demonstrate conduct that
-conforms to University standards of conduct. Conditions restricting the student's privileges or
-eligibility for activities may be imposed. Misconduct during the probationary period or violation of
-any conditions of the probation may result in further disciplinary action, normally in the form of
-Suspension or Dismissal.
-105.04 Loss of Privileges and Exclusion from Activities
-Exclusion from participation in designated privileges and activities for a specified period of time.
-Violation of any conditions in the written Notice of Loss of Privileges and Exclusion from Activities,
-or violation of University policies or campus regulations during the period of the sanction may be
-cause for further disciplinary action, normally in the form of Probation, Suspension or Dismissal.
-105.05 Suspension
-Termination of student status at the campus for a specified period of time with reinstatement thereafter
-certain, provided that the student has complied with all conditions imposed as part of the suspension
-and provided that the student is otherwise qualified for reinstatement. Violation of the conditions of
-Suspension or of University policies or campus regulations during the period of Suspension may be
-cause for further disciplinary action, normally in the form of Dismissal.
-105.06 Dismissal
-Termination of student status for an indefinite period. Readmission to the University requires the
-specific approval of the Chancellor of the campus to which a dismissed student has applied.
-Readmission after dismissal may be granted only under exceptional circumstances.
-105.07 Exclusion from Areas of the Campus or from Official University Functions
-Exclusion of a student as part of a disciplinary sanction from specified areas of the campus or other
-University-owned, -operated, or -leased facilities, or other facilities located on University property, or
-from official University functions, when there is reasonable cause for the University to believe that the
-student's presence there will lead to physical abuse, threats of violence, or conduct that threatens the
-health or safety of any person on University property or at official University functions, or other
-disruptive activity incompatible with the orderly operation of the campus.
-105.08 Interim Suspension
-Exclusion from classes or from other specified activities or areas of the campus, as set forth in the
-Notice of Interim Suspension, before final determination of an alleged violation. A student will be
-restricted only to the minimum extent necessary when there is reasonable cause to believe that the
-student's participation in University activities or presence at specified areas of the campus will lead to
-physical abuse, threats of violence, or conduct that threatens the health or safety of any person on
-University property or at official University functions, or other disruptive activity incompatible with
-the orderly operation of the campus. A student placed on Interim Suspension will be given prompt
-notice of the reason for the Interim Suspension, the duration of the Interim Suspension, and the
-opportunity for a prompt hearing on the Interim Suspension. Interim Suspension will be reviewed by
-the Chancellor or his/her designee within twenty-four hours. If the Interim Suspension is not upheld
-by the hearing panel the University is committed to a policy whereby reasonable efforts are taken to
-assist an individual who has been disadvantaged with respect to employment or academic status.
-105.09 Restitution
-A requirement for restitution in the form of reimbursement may be imposed for expenses incurred by
-the University or other parties resulting from a violation of these policies. Such reimbursement may
-take the form of monetary payment or appropriate service to repair or otherwise compensate for
-damages. Restitution may be imposed on any student who alone, or through group or concerted
-activities, participates in causing the damages or costs.
-105.10 Revocation of Awarding of Degree
-Subject to the concurrence of the Academic Senate, revocation of a degree obtained by fraud or other
-academic dishonesty. Such revocation is subject to review on appeal by the Chancellor.
-105.11 Other
-Other disciplinary actions, such as monetary fines, community service, or holds on requests for
-transcripts, diplomas, or other student records to be sent to third parties, as set forth in campus
-regulations.
-105.11(a) University Service
-A designated number of hours of unpaid University service, performed under the direction of an
-administrative officer of the Berkeley Campus.
-105.11(b) Monetary fines
-Monetary fines may be imposed.
-105.11(c) Records Hold
-A hold may be placed on transcripts and/or diploma(s) or other records as a sanction and/or until a
-student satisfies the terms and conditions of any sanction imposed.
-105.11(d) Deferral or Withholding of Degree
-An academic degree may be deferred when disciplinary proceedings are pending or when a
-student's full compliance with disciplinary sanctions is pending, or withheld when academic
-dishonesty or fraud affected the acquisition of the student's degree. See (Recommendation to
-Revoke Degree Previously Conferred, page 12) for further information regarding this procedure.
-105.11(e) Stay of Sanction
-The imposition of any sanction may be held in abeyance pending future conduct.
-105.11(f) Counseling
-Appropriate counseling or other professional assistance including but not limited to psychological
-counseling, drug and alcohol counseling, and anger management workshops may be required.
-105.11(g) Other Actions
-Other appropriate action, including, but not limited to additional academic assignments.
-105.11(h) Additional Student Organization Sanctions
-1. In addition to the sanctions listed above, violations by student organizations may also result in
-revocation of the organization's recognition or revocation of recognition of the organization's
-officers.
-2. A recognized student organization may be sanctioned where a member or members of the
-organization violated the Code with the knowledge and consent of the organization's officers, or
-acted in concert with other members of the organization.
+  When a student is found in violation of University policies or campus regulations, any of the following
+  sanctions or combination thereof may be imposed. Any sanction imposed should be appropriate to the
+  violation, taking into consideration the context and seriousness of the violation.
+
+  105.01 Warning/Censure
+
+    Written notice or reprimand to the student that a violation of specified University policies or campus
+    regulations has occurred and that continued or repeated violations of University policies or campus
+    regulations may be cause for further disciplinary action, normally in the form of Disciplinary
+    Probation, and/or Loss of Privileges and Exclusion from Activities, Suspension, or Dismissal.
+
+  105.02 [Rescinded May 17, 2002 per UCOP]
+
+  105.03 Disciplinary Probation
+
+    A status imposed for a specified period of time during which a student must demonstrate conduct that
+    conforms to University standards of conduct. Conditions restricting the student's privileges or
+    eligibility for activities may be imposed. Misconduct during the probationary period or violation of
+    any conditions of the probation may result in further disciplinary action, normally in the form of
+    Suspension or Dismissal.
+
+  105.04 Loss of Privileges and Exclusion from Activities
+
+    Exclusion from participation in designated privileges and activities for a specified period of time.
+    Violation of any conditions in the written Notice of Loss of Privileges and Exclusion from Activities,
+    or violation of University policies or campus regulations during the period of the sanction may be
+    cause for further disciplinary action, normally in the form of Probation, Suspension or Dismissal.
+
+  105.05 Suspension
+
+    Termination of student status at the campus for a specified period of time with reinstatement thereafter
+    certain, provided that the student has complied with all conditions imposed as part of the suspension
+    and provided that the student is otherwise qualified for reinstatement. Violation of the conditions of
+    Suspension or of University policies or campus regulations during the period of Suspension may be
+    cause for further disciplinary action, normally in the form of Dismissal.
+
+  105.06 Dismissal
+
+    Termination of student status for an indefinite period. Readmission to the University requires the
+    specific approval of the Chancellor of the campus to which a dismissed student has applied.
+    Readmission after dismissal may be granted only under exceptional circumstances.
+
+  105.07 Exclusion from Areas of the Campus or from Official University Functions
+
+    Exclusion of a student as part of a disciplinary sanction from specified areas of the campus or other
+    University-owned, -operated, or -leased facilities, or other facilities located on University property, or
+    from official University functions, when there is reasonable cause for the University to believe that the
+    student's presence there will lead to physical abuse, threats of violence, or conduct that threatens the
+    health or safety of any person on University property or at official University functions, or other
+    disruptive activity incompatible with the orderly operation of the campus.
+
+  105.08 Interim Suspension
+
+    Exclusion from classes or from other specified activities or areas of the campus, as set forth in the
+    Notice of Interim Suspension, before final determination of an alleged violation. A student will be
+    restricted only to the minimum extent necessary when there is reasonable cause to believe that the
+    student's participation in University activities or presence at specified areas of the campus will lead to
+    physical abuse, threats of violence, or conduct that threatens the health or safety of any person on
+    University property or at official University functions, or other disruptive activity incompatible with
+    the orderly operation of the campus. A student placed on Interim Suspension will be given prompt
+    notice of the reason for the Interim Suspension, the duration of the Interim Suspension, and the
+    opportunity for a prompt hearing on the Interim Suspension. Interim Suspension will be reviewed by
+    the Chancellor or his/her designee within twenty-four hours. If the Interim Suspension is not upheld
+    by the hearing panel the University is committed to a policy whereby reasonable efforts are taken to
+    assist an individual who has been disadvantaged with respect to employment or academic status.
+
+  105.09 Restitution
+
+    A requirement for restitution in the form of reimbursement may be imposed for expenses incurred by
+    the University or other parties resulting from a violation of these policies. Such reimbursement may
+    take the form of monetary payment or appropriate service to repair or otherwise compensate for
+    damages. Restitution may be imposed on any student who alone, or through group or concerted
+    activities, participates in causing the damages or costs.
+
+  105.10 Revocation of Awarding of Degree
+
+    Subject to the concurrence of the Academic Senate, revocation of a degree obtained by fraud or other
+    academic dishonesty. Such revocation is subject to review on appeal by the Chancellor.
+
+  105.11 Other
+
+    Other disciplinary actions, such as monetary fines, community service, or holds on requests for
+    transcripts, diplomas, or other student records to be sent to third parties, as set forth in campus
+    regulations.
+
+    105.11(a) University Service
+
+      A designated number of hours of unpaid University service, performed under the direction of an
+      administrative officer of the Berkeley Campus.
+
+    105.11(b) Monetary fines
+
+      Monetary fines may be imposed.
+
+    105.11(c) Records Hold
+
+      A hold may be placed on transcripts and/or diploma(s) or other records as a sanction and/or until a
+      student satisfies the terms and conditions of any sanction imposed.
+
+    105.11(d) Deferral or Withholding of Degree
+
+      An academic degree may be deferred when disciplinary proceedings are pending or when a
+      student's full compliance with disciplinary sanctions is pending, or withheld when academic
+      dishonesty or fraud affected the acquisition of the student's degree. See (Recommendation to
+      Revoke Degree Previously Conferred, page 12) for further information regarding this procedure.
+
+    105.11(e) Stay of Sanction
+
+      The imposition of any sanction may be held in abeyance pending future conduct.
+
+    105.11(f) Counseling
+
+      Appropriate counseling or other professional assistance including but not limited to psychological
+      counseling, drug and alcohol counseling, and anger management workshops may be required.
+
+    105.11(g) Other Actions
+
+      Other appropriate action, including, but not limited to additional academic assignments.
+
+    105.11(h) Additional Student Organization Sanctions
+
+      1. In addition to the sanctions listed above, violations by student organizations may also result in
+      revocation of the organization's recognition or revocation of recognition of the organization's
+      officers.
+
+      2. A recognized student organization may be sanctioned where a member or members of the
+      organization violated the Code with the knowledge and consent of the organization's officers, or
+      acted in concert with other members of the organization.
 
 VII. MISCELLANEOUS
-A. MAINTENANCE OF CONDUCT AND ACADEMIC RECORDS
-1. University Policy, State and Federal Law
-Conduct case records and all supporting documentation will be maintained according to the
-University policies and applicable State and Federal laws concerning maintenance and disclosure
-of student records, protection of a student's right of privacy, and the disclosure of personal student
-information.
-2. Campus Policy
-The file of a student found in violation of campus regulations (including the transcripts or
-recordings of the hearing) will be maintained by Student Conduct and Community Standards for a
-period of at least seven years from the date of the letter providing notice of final conduct action,
-unless otherwise determined by the Dean of Students or his/her designee.
-3. Posting on Transcripts
-When, as a result of a violation of the Code of Student Conduct, a student is suspended, the fact
-that suspension was imposed must be posted on the academic transcript for the duration of the
-suspension. When a student is dismissed, the fact that dismissal was imposed must be posted on
-the academic transcript permanently.
-B. Threats to Health and Safety/Disruptive or Illegal Activity
-1. Threats to Health and Safety
-In cases involving behavior that is willfully disruptive or presents a threat to the health or safety of
-others, interim suspension or exclusion pursuant to California Penal Code Section 626 may be
-invoked in addition to or instead of the initiation of conduct action. See Interim Suspension (page
-19) of this Code for Interim Suspension policy. See Disruptive and Illegal Activity (page 21) for
-further information regarding Penal Code Section 626.
-2. Disruptive and Illegal Activity
-Independent of the procedures described above, the Berkeley Campus Chief of Police or other
-designated officer may exclude disruptive students from the campus under the Berkeley Campus
-Procedures for Implementing Section 626 of the State Penal Code. Such exclusions may be
-ordered where there is reasonable cause to believe that the individual has engaged in an activity
-which (1) willfully disrupts the orderly operation of the campus and (2) is illegal under criminal
-statutes other than Section 626.4. (See Berkeley Campus Procedures for Implementing Section
-626 of the State Penal Code in Appendix I for further information).
-C. Application of the Code
-Conduct for violations of University policies or campus regulations may be imposed whether or
-not such violations are also violations of law, and whether or not proceedings are or have been
-pending in the courts involving the same acts. The proceedings described herein are separate and
-distinct from criminal or civil proceedings which may arise from identical circumstances and
-which apply to students as citizens at large. Whenever it is possible and reasonable to do so,
-student conduct cases will be handled in an informal manner that encourages students to learn
-from their experiences and be positive contributors to the community.
-Students are responsible for informing themselves about their rights and responsibilities with
-respect to the Code and cannot reasonably claim innocence of a violation of the Code on the
-grounds of ignorance.
-D. Revisions of the Code
-The Chancellor consults faculty, staff and students, including representatives of student
-governments, in the revision of the Berkeley Campus Code of Student Conduct except when such
-revisions result from changes to Universitywide policies or are specifically mandated by law. Any
-member of the campus community may submit written proposals to change the provisions of this
-Code to the Chancellor at any time. Prior to the adoption of a revised Code of Student Conduct, all
-proposed modifications are submitted to the Office of the Assistant Chancellor for Legal Affairs
-for review for consistency with Universitywide policies and the law.
-All campus and Universitywide policies referenced herein are listed in Appendix I. Copies of such policies
-are available at the Student Conduct and Community Standards (2536 Channing Way, Bldg E.), Judicial
-Affairs and Compliance, Office of Student Development (2610 Channing Way) and the Student Advocate's
-Office (204 Eshleman), and on-line at http://studentconduct.berkeley.edu
-Please be aware that the Center for Student Conduct and Community Standards is only accessible by
-a flight of stairs. For accommodations, please contact Student Conduct and Community Standards at
-510-643-9069 or by email at studentconduct@berkeley.edu.
+
+  A. MAINTENANCE OF CONDUCT AND ACADEMIC RECORDS
+
+    1. University Policy, State and Federal Law
+
+      Conduct case records and all supporting documentation will be maintained according to the
+      University policies and applicable State and Federal laws concerning maintenance and disclosure
+      of student records, protection of a student's right of privacy, and the disclosure of personal student
+      information.
+
+    2. Campus Policy
+
+      The file of a student found in violation of campus regulations (including the transcripts or
+      recordings of the hearing) will be maintained by Student Conduct and Community Standards for a
+      period of at least seven years from the date of the letter providing notice of final conduct action,
+      unless otherwise determined by the Dean of Students or his/her designee.
+
+    3. Posting on Transcripts
+
+      When, as a result of a violation of the Code of Student Conduct, a student is suspended, the fact
+      that suspension was imposed must be posted on the academic transcript for the duration of the
+      suspension. When a student is dismissed, the fact that dismissal was imposed must be posted on
+      the academic transcript permanently.
+
+  B. Threats to Health and Safety/Disruptive or Illegal Activity
+
+    1. Threats to Health and Safety
+
+      In cases involving behavior that is willfully disruptive or presents a threat to the health or safety of
+      others, interim suspension or exclusion pursuant to California Penal Code Section 626 may be
+      invoked in addition to or instead of the initiation of conduct action. See Interim Suspension (page
+      19) of this Code for Interim Suspension policy. See Disruptive and Illegal Activity (page 21) for
+      further information regarding Penal Code Section 626.
+
+    2. Disruptive and Illegal Activity
+
+      Independent of the procedures described above, the Berkeley Campus Chief of Police or other
+      designated officer may exclude disruptive students from the campus under the Berkeley Campus
+      Procedures for Implementing Section 626 of the State Penal Code. Such exclusions may be
+      ordered where there is reasonable cause to believe that the individual has engaged in an activity
+      which (1) willfully disrupts the orderly operation of the campus and (2) is illegal under criminal
+      statutes other than Section 626.4. (See Berkeley Campus Procedures for Implementing Section
+      626 of the State Penal Code in Appendix I for further information).
+
+  C. Application of the Code
+
+    Conduct for violations of University policies or campus regulations may be imposed whether or
+    not such violations are also violations of law, and whether or not proceedings are or have been
+    pending in the courts involving the same acts. The proceedings described herein are separate and
+    distinct from criminal or civil proceedings which may arise from identical circumstances and
+    which apply to students as citizens at large. Whenever it is possible and reasonable to do so,
+    student conduct cases will be handled in an informal manner that encourages students to learn
+    from their experiences and be positive contributors to the community.
+    Students are responsible for informing themselves about their rights and responsibilities with
+    respect to the Code and cannot reasonably claim innocence of a violation of the Code on the
+    grounds of ignorance.
+
+  D. Revisions of the Code
+
+    The Chancellor consults faculty, staff and students, including representatives of student
+    governments, in the revision of the Berkeley Campus Code of Student Conduct except when such
+    revisions result from changes to Universitywide policies or are specifically mandated by law. Any
+    member of the campus community may submit written proposals to change the provisions of this
+    Code to the Chancellor at any time. Prior to the adoption of a revised Code of Student Conduct, all
+    proposed modifications are submitted to the Office of the Assistant Chancellor for Legal Affairs
+    for review for consistency with Universitywide policies and the law.
+
+    All campus and Universitywide policies referenced herein are listed in Appendix I. Copies of such policies
+    are available at the Student Conduct and Community Standards (2536 Channing Way, Bldg E.), Judicial
+    Affairs and Compliance, Office of Student Development (2610 Channing Way) and the Student Advocate's
+    Office (204 Eshleman), and on-line at http://studentconduct.berkeley.edu
+
+    Please be aware that the Center for Student Conduct and Community Standards is only accessible by
+    a flight of stairs. For accommodations, please contact Student Conduct and Community Standards at
+    510-643-9069 or by email at studentconduct@berkeley.edu.
 
 APPENDIX I: RELATED CAMPUS POLICIES AND REGULATIONS
-1. Berkeley Campus Policy Governing Disclosure of Information from Student Records
-2. Berkeley Campus Policy Governing Student Dances
-3. Berkeley Campus Policy Governing the Promotion of Alcoholic Beverages and Tobacco Products on the
-Campus and at Campus Sponsored Events
-4. Berkeley Campus Policy on Sexual Harassment and Complaint Resolution Procedures
-5. Berkeley Campus Procedures for Implementing Section 626 of the State Penal Code
-6. Berkeley Campus Regulations Implementing University Policies
-7. Berkeley Campus Student Grievance Procedure
-8. Berkeley Campus Student Policy and Procedures Regarding Sexual Assault and Rape
-9. Guide to Student Living in the Residence Halls
-10. Agreement for Sponsorship or Affiliation of Fraternities and Sororities by the University of California,
-Berkeley (Chapter Recognition Agreement)
-11. Computing and Communications Policies, Governance
-12. Policy Governing the Placement of Administrative Blocks (document available from the Office of the
-Registrar)
-13. Policy on Student Disruption of Teaching, Research, Administration or University Activities Due to
-Extreme Emotional or Dangerous Behavior
-14. Policy on the Use of University Names and Seals and Trademarks
-15. Policy Statement Concerning Public Nudity and Sexually Offensive Conduct
-16. Statement on Hazing
+  1. Berkeley Campus Policy Governing Disclosure of Information from Student Records
+  2. Berkeley Campus Policy Governing Student Dances
+  3. Berkeley Campus Policy Governing the Promotion of Alcoholic Beverages and Tobacco Products on the
+  Campus and at Campus Sponsored Events
+  4. Berkeley Campus Policy on Sexual Harassment and Complaint Resolution Procedures
+  5. Berkeley Campus Procedures for Implementing Section 626 of the State Penal Code
+  6. Berkeley Campus Regulations Implementing University Policies
+  7. Berkeley Campus Student Grievance Procedure
+  8. Berkeley Campus Student Policy and Procedures Regarding Sexual Assault and Rape
+  9. Guide to Student Living in the Residence Halls
+  10. Agreement for Sponsorship or Affiliation of Fraternities and Sororities by the University of California,
+  Berkeley (Chapter Recognition Agreement)
+  11. Computing and Communications Policies, Governance
+  12. Policy Governing the Placement of Administrative Blocks (document available from the Office of the
+  Registrar)
+  13. Policy on Student Disruption of Teaching, Research, Administration or University Activities Due to
+  Extreme Emotional or Dangerous Behavior
+  14. Policy on the Use of University Names and Seals and Trademarks
+  15. Policy Statement Concerning Public Nudity and Sexually Offensive Conduct
+  16. Statement on Hazing
 
 APPENDIX II: EMERGENCY SUSPENSION
-During a state of emergency, Chancellors or their designated representatives are empowered to impose
-Emergency Suspension on any student, faculty member, or employee when there is a reasonable cause to
-believe:
-1. The individual has participated in a disturbance of the peace or unlawful assembly, or has acted in
-violation of the campus emergency orders, has committed an act of physical violence or has threatened to
-commit such an act, or has committed a theft or has damaged property; or
-2. The individual's presence on campus will lead to violation of campus emergency orders, violence,
-intimidation, damage to property, or other disruptive activity incompatible with the orderly operation of the
-campus.
-If Emergency Suspension is imposed by a designated representative of the Chancellor, such representative
-shall immediately inform the Chancellor and submit a written report on the action to the Chancellor as soon
-as is reasonably possible. The report must contain a description of the person suspended, including the
-person's name and, if available, address and phone number, and a statement of the facts giving rise to the
-suspension. If the Chancellor does not affirm the action of the designated representative within twenty-four
-hours after being informed that the suspension has been imposed, the suspension will be deemed void and a
-reasonable effort will be made to inform the person who was suspended that the suspension is void.
-Any individual placed on Emergency Suspension will be given written confirmation of the suspension,
-either by delivering it to the individual personally, by mailing it to the individual's last known address of
-record or by emailing it to the individual’s last known email address of record. The confirmation will
-inform the individual of the procedures by which the validity of the Emergency Suspension can be
-appealed, including the opportunity to obtain a special hearing on the Emergency Suspension in accordance
-with applicable campus procedures. If an individual is found to have been unjustifiably placed on
-Emergency Suspension, the University is committed to a policy whereby reasonable efforts are taken to
-assist an individual who has been disadvantaged in employment or academic status.
-The outcome of the appeal will have no bearing on University conduct proceedings arising from the
-behavior which gave rise to the Emergency Suspension.
-Any individual placed under Emergency Suspension shall not, during the period of suspension, enter upon
-specified areas of the campus or engage in specified activities, as set forth in the written Notice of
-Emergency Suspension. The exclusion or restriction will be limited to the minimum extent necessary to
-protect the health and safety of persons or property, or to maintain the orderly operation of the campus.
-Violation of any condition set forth in the Notice of Emergency Suspension will subject the individual to
-disciplinary proceedings based upon such violation.
-The following documents are available on-line at http://studentconduct.berkeley.edu
+  During a state of emergency, Chancellors or their designated representatives are empowered to impose
+  Emergency Suspension on any student, faculty member, or employee when there is a reasonable cause to
+  believe:
+
+    1. The individual has participated in a disturbance of the peace or unlawful assembly, or has acted in
+    violation of the campus emergency orders, has committed an act of physical violence or has threatened to
+    commit such an act, or has committed a theft or has damaged property; or
+
+    2. The individual's presence on campus will lead to violation of campus emergency orders, violence,
+    intimidation, damage to property, or other disruptive activity incompatible with the orderly operation of the
+    campus.
+
+  If Emergency Suspension is imposed by a designated representative of the Chancellor, such representative
+  shall immediately inform the Chancellor and submit a written report on the action to the Chancellor as soon
+  as is reasonably possible. The report must contain a description of the person suspended, including the
+  person's name and, if available, address and phone number, and a statement of the facts giving rise to the
+  suspension. If the Chancellor does not affirm the action of the designated representative within twenty-four
+  hours after being informed that the suspension has been imposed, the suspension will be deemed void and a
+  reasonable effort will be made to inform the person who was suspended that the suspension is void.
+
+  Any individual placed on Emergency Suspension will be given written confirmation of the suspension,
+  either by delivering it to the individual personally, by mailing it to the individual's last known address of
+  record or by emailing it to the individual’s last known email address of record. The confirmation will
+  inform the individual of the procedures by which the validity of the Emergency Suspension can be
+  appealed, including the opportunity to obtain a special hearing on the Emergency Suspension in accordance
+  with applicable campus procedures. If an individual is found to have been unjustifiably placed on
+  Emergency Suspension, the University is committed to a policy whereby reasonable efforts are taken to
+  assist an individual who has been disadvantaged in employment or academic status.
+
+  The outcome of the appeal will have no bearing on University conduct proceedings arising from the
+  behavior which gave rise to the Emergency Suspension.
+
+  Any individual placed under Emergency Suspension shall not, during the period of suspension, enter upon
+  specified areas of the campus or engage in specified activities, as set forth in the written Notice of
+  Emergency Suspension. The exclusion or restriction will be limited to the minimum extent necessary to
+  protect the health and safety of persons or property, or to maintain the orderly operation of the campus.
+
+  Violation of any condition set forth in the Notice of Emergency Suspension will subject the individual to
+  disciplinary proceedings based upon such violation.
+
+  The following documents are available on-line at http://studentconduct.berkeley.edu
 
 APPENDIX III: OVERVIEW OF THE CONDUCT PROCESS
 
