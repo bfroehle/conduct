@@ -92,6 +92,7 @@ case; the advisor’s familiarity with and willingness to abide by applicable pr
 language barriers that prevent the students from expressing themselves during the hearing; and such
 other factors as may be relevant in the particular case. The Independent Hearing Officer may limit the
 speaking role of the advisor during the hearing if necessary to prevent disruption.
+
 II. CONDUCT PROCEDURES
 A. Administration of the Code of Conduct
 1. The Center for Student Conduct
@@ -170,13 +171,8 @@ record, and therefore is not appealable. However, the prior alleged behavior as 
 Notification may be introduced in a subsequent conduct process for the purpose of
 establishing that the student was warned that such behavior violates University policy,
 campus regulations or the Code.
-2.
-
-Case Charged
-a)
-
-Notice of Charges
-
+2. Case Charged
+a) Notice of Charges
 If the Center for Student Conduct determines that there is sufficient information to support the
 allegation(s), the student will be notified of the charge(s) under the Code. The written notice
 of charges, also referred to as the Alleged Violation Letter, includes: notice to the student of
@@ -363,10 +359,7 @@ Information from Student Records).
 The Independent Hearing Officer may exclude any information from the hearing that a
 party fails to include in its exchange of information or fails to exchange according to
 these procedures.
-(2)
-
-Pre-Hearing and Procedural Matters
-
+(2) Pre-Hearing and Procedural Matters
 The Independent Hearing Officer will review and decide any procedural matters either in
 advance of or during the hearing as necessary and appropriate. These matters include but
 are not limited to: limits on each side’s time for presentation, exclusion of duplicated or
@@ -461,9 +454,7 @@ Dean of Students or his/her designee will determine the sanction to be imposed. 
 statement of the Dean of Students’ or his/her designee’s final decision on sanctioning will be
 sent by email to the charged student within ten (10) days of receiving the hearing body’s
 report.
-f)
-
-Recommendation to Revoke Degree Previously Conferred
+f) Recommendation to Revoke Degree Previously Conferred
 (1) If the hearing body determines that a student has committed an act of academic
 misconduct or fraud affecting the acquisition of the student’s degree, the Dean of
 Students or his/her designee may forward a recommendation that the degree be
@@ -477,7 +468,6 @@ determination that the appeal by the Vice Chancellor for Student Affairs or his/
 designee has been completed.
 (3) The Committee on Courses makes the final decision as to revocation of the degree.
 This determination is not appealable to the Vice Chancellor for Student Affairs.
-
 g) Consolidation of Hearings
 Cases in which more than one student is charged with violating the same Code section(s) and
 which depend on common evidence may, at the discretion of the Independent Hearing
@@ -493,10 +483,7 @@ which must be made available to the charged student upon request. The student ma
 student’s own expense, use the services of a professional stenographer during the hearing. In
 some instances the recording may have to be transcribed before it can be released (see
 Berkeley Campus Policy Governing Disclosure of Information from Student Records).
-i)
-
-Hearings Generally Closed to the Public
-
+i) Hearings Generally Closed to the Public
 In order to protect the privacy of the student, hearings are closed to the public unless an
 exception is granted by the Independent Hearing Officer upon written request by the student.
 The student may request an open hearing by submitting a written request for a public hearing
@@ -539,6 +526,7 @@ reject, or modify the decision and sanction in question, or require that the ori
 hearing body for further consideration. The action taken will be communicated in writing to the
 student and the Center for Student Conduct within fifteen (15) days after receipt of the appeal and
 related documents.
+
 III. DEFINITIONS
 A. Student
 1. The term "student" for the purposes of this Code means an individual for whom the
@@ -633,35 +621,21 @@ The Chancellor may impose discipline for the commission or attempted commission 
 abetting in the commission or attempted commission) of the following types of violations by students (as
 specified by University Policy 100.00, http://www.ucop.edu/ucophome/coordrev/ucpolicies/), as well as
 such other violations as may be specified in campus regulations:
-102.01
-
-Academic Misconduct
-
+102.01 Academic Misconduct
 All forms of academic misconduct including but not limited to cheating, fabrication, plagiarism, or
 facilitating academic dishonesty.
 See Appendix II of this Code for further explanation of academic misconduct.
-102.02
-
-Other Dishonesty
-
+102.02 Other Dishonesty
 Other forms of dishonesty including but not limited to fabricating information, bribery, furnishing false
 information, or reporting a false emergency to the University.
-102.03
-
-Forgery
-
+102.03 Forgery
 Forgery, alteration, or misuse of any University document, record, key, electronic device, or
 identification.
-102.04
-
-Theft
+102.04 Theft
 Theft of, conversion of, destruction of, or damage to any property of the University, or any property of
 others while on University premises, or possession of any property when the student had knowledge or
 reasonably should have had knowledge that it was stolen.
-102.05
-
-Electronic Resources
-
+102.05 Electronic Resources
 Theft or abuse of University computers and other University electronic resources such as computer and
 electronic communications facilities, systems, and services. Abuses include (but are not limited to)
 unauthorized entry, use, transfer, or tampering with the communications of others; interference with
@@ -673,32 +647,20 @@ other University policies or campus regulations.
 Please refer to the UC Electronic Communications Policy
 (http://www.ucop.edu/ucophome/policies/ec/) and Digital Copyright Protection at UC
 (http://www.ucop.edu/irc/policy/copyright.html) for the University's position on digital copyright.
-102.06
-
-Unauthorized Conduct
-
+102.06 Unauthorized Conduct
 Unauthorized entry to, possession of, receipt of, or use of any University services; equipment;
 resources; or properties, including the University’s name, insignia, or seal.
-102.07
-
-University Housing
-
+102.07 University Housing
 Violation of policies, regulations, or rules governing University-owned, -operated, or -leased housing
 facilities or other housing facilities located on University property.
-102.08
-
-Physical Abuse
-
+102.08 Physical Abuse
 Physical abuse including but not limited to rape, sexual assault, sex offenses, and other physical
 assault; threats of violence; or other conduct that threatens the health or safety of any person. (See
 Berkeley Campus Student Policy and Procedures Regarding Sexual Assault and Rape or the Berkeley
 Campus Policy on Sexual Harassment and Complaint Resolution Procedures in Appendix I for further
 information.)
 Title IX website: http://equity.chance.berkeley.edu/titleix.shtml
-102.09
-
-Sexual, Racial, and Other Forms of Harassment (Interim)
-
+102.09 Sexual, Racial, and Other Forms of Harassment (Interim)
 Sexual, racial, and other forms of harassment, defined as follows:
 Harassment is defined as conduct that is so severe and/or pervasive, and objectively offensive, and that
 so substantially impairs a person's access to University programs or activities, that the person is
@@ -712,93 +674,52 @@ employment, students are subject to the University of California Policy on Sexua
 Otherwise, Section 102.09, above, is the applicable standard for harassment by students.
 Both student and/or employee sexual harassment, please refer to the University of California
 Procedures for Responding to Reports of Sexual Harassment.
-102.10
-
-Stalking
-
+102.10 Stalking
 Stalking behavior in which a student repeatedly engages in a course of conduct directed at another
 person and makes a credible threat with the intent to place that person in reasonable fear for the
 person’s safety, or the safety of the person’s family; where the threat is reasonably determined by the
 University to seriously alarm, torment, or terrorize the person; and where the threat is additionally
 determined by the University to serve no legitimate purpose.
-102.11
-
-(Rescinded, UCOP, October 2009)
-
-102.12
-
-Hazing
-
+102.11 (Rescinded, UCOP, October 2009)
+102.12 Hazing
 Participation in hazing or any method of initiation or pre-initiation into a campus organization or other
 activity engaged in by the organization or members of the organization at any time that causes, or is
 likely to cause, physical injury or personal degradation or disgrace resulting in psychological harm to
 any student or other person. (See Statement on Hazing in Appendix I for further information).
-102.13
-
-Obstruction of University Activities
-
+102.13 Obstruction of University Activities
 Obstruction or disruption of teaching, research, administration, disciplinary procedures, or other
 University activities.
-102.14
-
-Disorderly Conduct
-
+102.14 Disorderly Conduct
 Disorderly or lewd conduct.
-102.15
-
-Disturbing the Peace
-
+102.15 Disturbing the Peace
 Participation in a disturbance of the peace or unlawful assembly. (See Berkeley Campus Regulations
 Implementing University Policies for further information.)
-102.16
-
-Failure to Comply
-
+102.16 Failure to Comply
 Failure to identify oneself to, or comply with the directions of, a University official or other public
 official acting in the performance of the official’s duties while on University property or at official
 University functions; or resisting or obstructing such University or other public officials in the
 performance of or the attempt to perform their duties.
-102.17
-
-Controlled Substances
-
+102.17 Controlled Substances
 Unlawful manufacture, distribution, dispensing, possession, use, or sale of, or the attempted
 manufacture, distribution, dispensing, or sale of controlled substances, identified in federal and state
 law or regulations.
-102.18
-
-Alcohol
-
+102.18 Alcohol
 Manufacture, distribution, dispensing, possession, use, or sale of, or the attempted manufacture,
 distribution, dispensing, or sale of alcohol that is unlawful or otherwise prohibited by, or not in
 compliance with, University policy or campus regulations.
-102.19
-
-Destructive Devices
-
+102.19 Destructive Devices
 Possession, use, storage, or manufacture of explosives, firebombs, or other destructive devices.
-102.20
-
-Weapons
-
+102.20 Weapons
 Possession, use, storage or manufacture of a firearm or other weapon.
-102.21
-
-Disciplinary Actions
-
+102.21 Disciplinary Actions
 Violation of the conditions contained in the terms of a disciplinary action imposed under this Code or
 campus regulations.
-102.22
-
-Notice of Emergency Suspension
-
+102.22 Notice of Emergency Suspension
 Violation of the conditions contained in a written Notice of Emergency Suspension issued pursuant to
 Appendix I (Emergency Suspension) of this Code or violation of orders issued during a declared state
 of emergency (see University Policy section 52.00,
 http://www.ucop.edu/ucophome/coordrev/ucpolicies/aos/uc50.html).
-102.23
-
-Course Materials
+102.23 Course Materials
 Selling, preparing, or distributing for any commercial purpose course lecture notes or video or audio
 recordings of any course unless authorized by the University in advance and explicitly permitted by the
 course instructor in writing. The unauthorized sale or commercial distribution of course notes or
@@ -808,10 +729,7 @@ Copying for any commercial purpose handouts, readers or other course materials p
 instructor as part of a University of California course unless authorized by the University in advance
 and explicitly permitted by the course instructor or the copyright holder in writing (if the instructor is
 not the copyright holder).
-102.24
-
-Terrorizing Conduct
-
+102.24 Terrorizing Conduct
 Conduct, where the actor means to communicate a serious expression of intent to terrorize, or acts in
 reckless disregard of the risk of terrorizing, one or more University students, faculty, or staff.
 'Terrorize' means to cause a reasonable person to fear bodily harm or death, perpetrated by the actor or
@@ -819,16 +737,11 @@ those acting under the actor’s control. 'Reckless disregard' means consciously
 substantial risk. This section applies without regard to whether the conduct is motivated by race,
 ethnicity, personal animosity, or other reasons. This section does not apply to conduct that constitutes
 the lawful defense of oneself, of another, or of property.
-102.25
-
-Camping or Lodging
-
+102.25 Camping or Lodging
 Camping or lodging on University property other than in authorized facilities.
-102.26
-
-Other Policies or Regulations
-
+102.26 Other Policies or Regulations
 Violation of any other University policy or campus regulation.
+
 VI. CONDUCT SANCTIONS
 When a student is found in violation of University policies or campus regulations, any of the following
 sanctions or combination thereof may be imposed. Any sanction imposed should be appropriate to the
@@ -838,36 +751,22 @@ individual was selected because of the individual's race, color, national or eth
 religion, age, sexual orientation, gender identity, pregnancy, marital status, ancestry, service in the
 uniformed services, physical or mental disability, medical condition, or perceived membership in any of
 these classifications.
-105.01
-
-Warning/Censure
-
+105.01 Warning/Censure
 Written notice or reprimand to the student that a violation of specified University policies or campus
 regulations has occurred and that continued or repeated violations of University policies or campus
 regulations may be cause for further disciplinary action. A warning may be issued in instances of
 deliberate and serious violations as well as for repeat, non-egregious violations.
-105.01(a)
-
-Non-Reportable Warning
-
+105.01(a) Non-Reportable Warning
 A warning could be in the form of a non-reportable warning, which is notice that subsequent
 violations will result in more serious sanctions. A non-reportable warning may be issued when the
 student’s action formally constitutes a violation, but the circumstances and degree of severity of
 the action do not warrant the creation of a conduct record. Once issued, records of non-reportable
 warnings are maintained only for in-house reference in case of subsequent violations.
-105.01(b)
-
-Reportable Warning
-
+105.01(b) Reportable Warning
 A warning could be in the form of a reportable warning, which is notice, maintained as part of the
 student’s conduct record.
-105.02
-
-[Rescinded May 17, 2002 per UCOP]
-105.03
-
-Disciplinary Probation
-
+105.02 [Rescinded May 17, 2002 per UCOP]
+105.03 Disciplinary Probation
 A status imposed for a specified period of time during which a student must demonstrate conduct that
 conforms to University standards of conduct. Conditions restricting the student's privileges or
 eligibility for activities may be imposed. Misconduct during the probationary period or violation of
@@ -875,18 +774,12 @@ any conditions of the probation may result in further disciplinary action, norma
 Suspension or Dismissal. Disciplinary probation will typically be issued in response to more egregious
 violations and recurring serious violations to communicate to the student that further violations will
 most likely lead to temporary or permanent removal from campus.
-105.04
-
-Loss of Privileges and Exclusion from Activities
-
+105.04 Loss of Privileges and Exclusion from Activities
 Exclusion from participation in designated privileges and activities for a specified period of time.
 Violation of any conditions in the written Notice of Loss of Privileges and Exclusion from Activities,
 or violation of University policies or campus regulations during the period of the sanction may be
 cause for further disciplinary action, normally in the form of Probation, Suspension or Dismissal.
-105.05
-
-Suspension
-
+105.05 Suspension
 Termination of student status at the campus for a specified period of time with reinstatement thereafter
 certain, provided that the student has complied with all conditions imposed as part of the suspension
 and provided that the student is otherwise qualified for reinstatement. Suspensions will typically be
@@ -894,30 +787,21 @@ issued in cases of extraordinarily serious first-time violations and for subsequ
 degree after a warning or disciplinary probation has been administered. 	   Violation of the conditions of
 Suspension or of University policies or campus regulations during the period of Suspension may be
 cause for further disciplinary action, normally in the form of Dismissal.
-105.06
-
-Dismissal
-
+105.06 Dismissal
 Termination of student status for an indefinite period. Readmission to the University requires the
 specific approval of the Chancellor of the campus to which a dismissed student has applied. Dismissal
 will typically be used in cases that cannot be appropriately addressed with a suspension because the
 recurring nature of multiple violations or the extraordinary caliber of a single violation demonstrates
 that the student does not deserve an opportunity to return to campus. Readmission after dismissal may
 be granted only under exceptional circumstances.
-105.07
-
-Exclusion from Areas of the Campus or from Official University Functions
-
+105.07 Exclusion from Areas of the Campus or from Official University Functions
 Exclusion of a student as part of a disciplinary sanction from specified areas of the campus or other
 University-owned, -operated, or -leased facilities, or other facilities located on University property, or
 from official University functions, when there is reasonable cause for the University to believe that the
 student's presence there will lead to physical abuse, threats of violence, or conduct that threatens the
 health or safety of any person on University property or at official University functions, or other
 disruptive activity incompatible with the orderly operation of the campus.
-105.08
-
-Interim Suspension
-
+105.08 Interim Suspension
 Exclusion from classes, from other specified activities, from areas of the campus, or from the entire
 campus, as set forth in a Notice of Interim Suspension issued by the Center for Student Conduct. A
 student will be restricted only to the minimum extent necessary and when there is reasonable cause to
@@ -940,73 +824,41 @@ student). The Center for Student Conduct will issue an Alleged Violation Letter 
 alleged conduct that led to the Notice of Interim Suspension within seven (7) days following the
 issuance of the Notice of Interim Suspension. Failure of a student to comply with the requirements of
 an interim suspension is a violation of this Code.
-105.09
-
-Restitution
-
+105.09 Restitution
 A requirement for restitution in the form of reimbursement may be imposed for expenses incurred by
 the University or other parties resulting from a violation of these policies. Such reimbursement may
 take the form of monetary payment or appropriate service to repair or otherwise compensate for
 damages. Restitution may be imposed on any student who alone, or through group or concerted
 activities, participates in causing the damages or costs.
-105.10
-
-Revocation of Awarding of Degree
-
+105.10 Revocation of Awarding of Degree
 Subject to the concurrence of the Academic Senate, revocation of a degree obtained by fraud or other
 academic dishonesty. Such revocation is subject to review on appeal by the Chancellor.
-105.11
-
-Other
-
+105.11 Other
 Other disciplinary actions, such as monetary fines, community service, or holds on requests for
 transcripts, diplomas, or other student records to be sent to third parties, as set forth in campus
 regulations.
-105.11(a)
-
-University Service
-
+105.11(a) University Service
 A designated number of hours of unpaid University service, performed under the direction of an
 administrative officer of the Berkeley Campus.
-105.11(b)
-
-Monetary fines
-
+105.11(b) Monetary fines
 Monetary fines may be imposed.
-105.11(c)
-
-Records Hold
-
+105.11(c) Records Hold
 A hold may be placed on transcripts and/or diploma(s) or other records as a sanction and/or until a
 student satisfies the terms and conditions of any sanction imposed.
-105.11(d)
-
-Deferral or Withholding of Degree
-
+105.11(d) Deferral or Withholding of Degree
 An academic degree may be deferred when disciplinary proceedings are pending or when a
 student's full compliance with disciplinary sanctions is pending, or withheld when academic
 dishonesty or fraud affected the acquisition of the student's degree (see Recommendation to
 Revoke Degree Previously Conferred, section II.D.2.f, for further information regarding this
 procedure).
-105.11(e)
-
-Stay of Sanction
-
+105.11(e) Stay of Sanction
 The imposition of any sanction may be held in abeyance pending future conduct.
-105.11(f)
-
-Counseling
-
+105.11(f) Counseling
 Appropriate counseling or other professional assistance including but not limited to psychological
 counseling, drug and alcohol counseling, and anger management workshops may be required.
-105.11(g)
-
-Other Actions
-
+105.11(g) Other Actions
 Other appropriate action, including, but not limited to, additional academic assignments.
-105.11(h)
-
-Additional Student Organization Sanctions
+105.11(h) Additional Student Organization Sanctions
 1. In addition to the sanctions listed above, violations by student organizations may also result in
 revocation of the organization's recognition or revocation of recognition of the organization's
 officers.
@@ -1015,7 +867,6 @@ organization violated the Code with the knowledge and consent of the organizatio
 acted in concert with other members of the organization.
 
 VII. MISCELLANEOUS
-
 A. Maintenance of Disciplinary Records
 1. University Policy, State and Federal Law
 Conduct case records and all supporting documentation will be maintained according to the
@@ -1045,10 +896,7 @@ When, as a result of a violation of the Code of Student Conduct, a student is su
 that suspension was imposed must be posted on the academic transcript for the duration of the
 suspension. When a student is dismissed, the fact that dismissal was imposed must be posted on
 the academic transcript permanently.
-4.
-
-Expunging of Disciplinary Record
-
+4. Expunging of Disciplinary Record
 Disciplinary records may be expunged by the Dean of Students of his/her designee for good cause,
 upon written request of a student who has a disciplinary record. Factors to be considered in
 review of such petitions shall include:
@@ -1098,6 +946,7 @@ and to the Office of the President for review for consistency with Universitywid
 law.
 Copies of all campuswide and University policies referenced herein are available at online at
 http://studentconduct.berkeley.edu.
+
 APPENDIX I: EMERGENCY SUSPENSION
 During a state of emergency, Chancellors or their designated representatives are empowered to impose
 Emergency Suspension on any student, faculty member, or employee when there is a reasonable cause to
@@ -1131,6 +980,7 @@ Emergency Suspension. The exclusion or restriction will be limited to the minimu
 protect the health and safety of persons or property, or to maintain the orderly operation of the campus.
 Violation of any condition set forth in the Notice of Emergency Suspension will subject the individual to
 disciplinary proceedings based upon such violation.
+
 APPENDIX II: ACADEMIC MISCONDUCT
 This appendix provides students with a further explanation of different forms of academic misconduct.
 This list is not exhaustive. Individual departments at the University of California, Berkeley may have
